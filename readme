@@ -1,0 +1,60 @@
+# 📱 Análise Completa do Projeto Barbeiro
+
+Este é um aplicativo mobile de gerenciamento para barbearias, desenvolvido em **Flutter** com uma arquitetura bem estruturada e organizada.
+
+---
+
+## 🏗️ Estrutura de Pastas
+
+| Pasta | Função |
+| :--- | :--- |
+| **lib/** | Código principal Dart com toda a lógica do app |
+| **android/** | Configurações específicas para Android |
+| **ios/** | Configurações específicas para iOS |
+| **assets/** | Imagens, ícones e outros recursos |
+| **test/** | Testes automatizados |
+
+---
+
+## 📂 Organização do Diretório `lib/`
+
+A lógica do sistema está dividida para facilitar a manutenção:
+
+* **pages/**: Telas principais (Login, Home, Agendamentos, Catálogo, Perfil, Lucros, Despesas)
+* **components/**: Componentes reutilizáveis (Calendário, Clock, Input, Menu, etc)
+* **viewmodels/**: Lógica de negócio das telas (padrão MVVM)
+* **models/**: Modelos de dados compartilhados
+* **domain/entities/**: Estruturas de dados principais (Agendamento, Cliente, Perfil, etc)
+* **domain/dtos/**: Objetos para transferência de dados
+* **services/**: Lógica de aplicação (Autenticação, Banco de dados, Analytics)
+* **drivers/**: Integração com Firebase
+* **utils/constants/**: Constantes e valores fixos da app
+
+---
+
+## ⚙️ Arquivos de Configuração
+
+* **pubspec.yaml**: Define todas as dependências do projeto
+* **firebase.json**: Configuração do Firebase
+* **analysis_options.yaml**: Regras de qualidade de código Dart
+* **flutter_launcher_icons.yaml**: Configuração dos ícones da app
+
+---
+
+## 🔐 Principais Tecnologias
+
+* **Frontend**: Flutter + Dart
+* **Backend**: Firebase (autenticação, banco de dados, analytics)
+* **Gerenciamento de Estado**: Provider
+* **Monitoramento**: Firebase Crashlytics + Performance
+
+---
+
+## 🎯 Funcionalidades Principais
+
+* **Autenticação**: Login de usuários
+* **Agendamentos**: Marcar e gerenciar horários
+* **Catálogo**: Listar serviços com preços
+* **Perfil**: Informações do barbeiro
+* **Lucros**: Análise de faturamento
+* **Despesas**: Controle de custos
