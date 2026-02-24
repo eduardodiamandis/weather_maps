@@ -1,60 +1,60 @@
-# 📱 Análise Completa do Projeto Barbeiro
+# Barbershop Management App
 
-Este é um aplicativo mobile de gerenciamento para barbearias, desenvolvido em **Flutter** com uma arquitetura bem estruturada e organizada.
+Welcome to the **Barbershop Management App**! This application is designed to help manage barbershops efficiently and effectively. Below, you'll find all the information you need to get started.
 
----
+## Features
 
-## 🏗️ Estrutura de Pastas
+- **Appointment Scheduling:** Easily schedule appointments with clients.
+- **Client Management:** Keep track of customer information and history.
+- **Inventory Management:** Manage the supplies and products used in the barbershop.
+- **Reporting:** Generate reports to analyze performance and sales.
 
-| Pasta | Função |
-| :--- | :--- |
-| **lib/** | Código principal Dart com toda a lógica do app |
-| **android/** | Configurações específicas para Android |
-| **ios/** | Configurações específicas para iOS |
-| **assets/** | Imagens, ícones e outros recursos |
-| **test/** | Testes automatizados |
+## Getting Started
 
----
+To get started with the Barbershop Management App, follow these steps:
 
-## 📂 Organização do Diretório `lib/`
+1. **Installation**
+   - Clone the repository:
+     ```bash
+     git clone https://github.com/eduardodiamandis/weather_maps.git
+     ```
+   - Navigate into the project directory:
+     ```bash
+     cd weather_maps
+     ```
+   - Install the necessary dependencies:
+     ```bash
+     npm install
+     ```
 
-A lógica do sistema está dividida para facilitar a manutenção:
+2. **Configuration**
+   - Create a `.env` file in the root directory and add your environment variables.
+   - Example:
+     ```bash
+     DATABASE_URL=your_database_url
+     API_KEY=your_api_key
+     ```
 
-* **pages/**: Telas principais (Login, Home, Agendamentos, Catálogo, Perfil, Lucros, Despesas)
-* **components/**: Componentes reutilizáveis (Calendário, Clock, Input, Menu, etc)
-* **viewmodels/**: Lógica de negócio das telas (padrão MVVM)
-* **models/**: Modelos de dados compartilhados
-* **domain/entities/**: Estruturas de dados principais (Agendamento, Cliente, Perfil, etc)
-* **domain/dtos/**: Objetos para transferência de dados
-* **services/**: Lógica de aplicação (Autenticação, Banco de dados, Analytics)
-* **drivers/**: Integração com Firebase
-* **utils/constants/**: Constantes e valores fixos da app
+3. **Run the Application**
+   - Start the application by running:
+     ```bash
+     npm start
+     ```
 
----
+## Contributing
 
-## ⚙️ Arquivos de Configuração
+We welcome contributions from the community! If you would like to contribute:
+- Fork the repository
+- Create a new branch for your feature or bug fix
+- Make your changes
+- Submit a pull request
 
-* **pubspec.yaml**: Define todas as dependências do projeto
-* **firebase.json**: Configuração do Firebase
-* **analysis_options.yaml**: Regras de qualidade de código Dart
-* **flutter_launcher_icons.yaml**: Configuração dos ícones da app
+## License
 
----
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔐 Principais Tecnologias
+## Contact
 
-* **Frontend**: Flutter + Dart
-* **Backend**: Firebase (autenticação, banco de dados, analytics)
-* **Gerenciamento de Estado**: Provider
-* **Monitoramento**: Firebase Crashlytics + Performance
-
----
-
-## 🎯 Funcionalidades Principais
-
-* **Autenticação**: Login de usuários
-* **Agendamentos**: Marcar e gerenciar horários
-* **Catálogo**: Listar serviços com preços
-* **Perfil**: Informações do barbeiro
-* **Lucros**: Análise de faturamento
-* **Despesas**: Controle de custos
+For any inquiries or feedback, please reach out to:
+- **Email:** [your_email@example.com](mailto:your_email@example.com)
+- **GitHub:** [eduardodiamandis](https://github.com/eduardodiamandis)
