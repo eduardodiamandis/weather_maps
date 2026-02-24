@@ -1,60 +1,316 @@
-# Barbershop Management App
+# 📱 Barbeiro - Aplicativo de Gerenciamento para Barbearias
 
-Welcome to the **Barbershop Management App**! This application is designed to help manage barbershops efficiently and effectively. Below, you'll find all the information you need to get started.
+## 🎯 Visão Geral
 
-## Features
+**Barbeiro** é um aplicativo mobile de gerenciamento completo para barbearias, desenvolvido em **Flutter** com uma arquitetura bem estruturada seguindo o padrão **MVVM** (Model-View-ViewModel).
 
-- **Appointment Scheduling:** Easily schedule appointments with clients.
-- **Client Management:** Keep track of customer information and history.
-- **Inventory Management:** Manage the supplies and products used in the barbershop.
-- **Reporting:** Generate reports to analyze performance and sales.
+O aplicativo oferece funcionalidades essenciais para profissionais do ramo, como agendamento de clientes, catálogo de serviços, gerenciamento de lucros e análise de despesas.
 
-## Getting Started
+---
 
-To get started with the Barbershop Management App, follow these steps:
+## 🏗️ Estrutura de Pastas Principais
 
-1. **Installation**
-   - Clone the repository:
-     ```bash
-     git clone https://github.com/eduardodiamandis/weather_maps.git
-     ```
-   - Navigate into the project directory:
-     ```bash
-     cd weather_maps
-     ```
-   - Install the necessary dependencies:
-     ```bash
-     npm install
-     ```
+```
+barbeiro/
+├── lib/                          # Código-fonte principal da aplicação
+├── android/                       # Configurações específicas para Android
+├── ios/                           # Configurações específicas para iOS
+├── assets/                        # Recursos de mídia (imagens, ícones)
+├── test/                          # Testes automatizados
+├── pubspec.yaml                   # Dependências do projeto
+├── pubspec.lock                   # Controle de versões de dependências
+├── analysis_options.yaml          # Configuração de linting Dart
+├── flutter_launcher_icons.yaml    # Configuração de ícones do app
+└── firebase.json                  # Configuração Firebase
+```
 
-2. **Configuration**
-   - Create a `.env` file in the root directory and add your environment variables.
-   - Example:
-     ```bash
-     DATABASE_URL=your_database_url
-     API_KEY=your_api_key
-     ```
+---
 
-3. **Run the Application**
-   - Start the application by running:
-     ```bash
-     npm start
-     ```
+## 📂 Detalhamento de Pastas
 
-## Contributing
+### **lib/ - Código Dart Principal**
 
-We welcome contributions from the community! If you would like to contribute:
-- Fork the repository
-- Create a new branch for your feature or bug fix
-- Make your changes
-- Submit a pull request
+A pasta `lib/` contém toda a lógica da aplicação distribuída em camadas:
 
-## License
+#### **pages/**
+- Telas principais da aplicação
+- **HomePage** - Página inicial
+- **LoginPage** - Autenticação de usuário
+- **SchedulePage** - Gerenciamento de agendamentos
+- **CatalogPage** - Catálogo de serviços
+- **ProfilePage** - Perfil do barbeiro
+- **ProfitingPage** - Análise de lucros/faturamento
+- **ExpensesPage** - Controle de despesas
+- **TestePage** - Página de testes
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+#### **components/**
+Componentes reutilizáveis em toda a aplicação:
+- **Calendar** - Calendário interativo
+- **Clock** - Exibição de horas
+- **Catalog** - Widget de catálogo
+- **Dasher** - Dashboard
+- **Input** - Campos de entrada
+- **Menu** - Menu de navegação
+- **FormButton** - Botões de formulário
+- **LoadingModal** - Modal de carregamento
+- **ErrorPage** - Página de erro
 
-## Contact
+#### **viewmodels/**
+Camada de lógica de negócio seguindo MVVM:
+- Gerencia o estado das páginas
+- Utiliza `Provider` para reatividade
+- Comunica-se entre view e models
 
-For any inquiries or feedback, please reach out to:
-- **Email:** [your_email@example.com](mailto:your_email@example.com)
-- **GitHub:** [eduardodiamandis](https://github.com/eduardodiamandis)
+#### **models/**
+Modelos de dados globais compartilhados entre telas:
+- **AuthModel** - Dados de autenticação
+- **CatalogModel** - Dados de serviços
+- **ProfileModel** - Dados do perfil
+- **CalendarModel** - Dados do calendário
+- **ClockModel** - Dados de horas
+
+#### **domain/**
+Camada de domínio com regras de negócio:
+
+**entities/** - Entidades principais do domínio:
+- `Appointment` - Agendamento
+- `Auth` - Autenticação
+- `Catalog` - Catálogo
+- `Client` - Cliente
+- `Payment` - Pagamento
+- `Profile` - Perfil
+
+**dtos/** - Objetos de Transferência de Dados:
+- `Event` - Eventos da aplicação
+- `Login` - Dados de login
+- `Query` - Consultas
+- `Schedule` - Agendamentos
+- `UI` - Dados de interface
+
+**enums/** - Enumerações:
+- `LoadingStatus` - Estados de carregamento
+- `ScheduleVisualizationMode` - Modo de visualização
+- `SelectedAuthService` - Serviço de autenticação selecionado
+
+#### **services/**
+Serviços de negócio e integrações:
+- **AuthService** - Autenticação de usuário
+- **DatabaseService** - Operações com banco de dados
+- **EventService** - Gerenciamento de eventos
+- **CrashReportService** - Relatório de erros
+- **AnalyticsService** - Análise de eventos
+
+#### **drivers/**
+Camada de integração com Firebase:
+- **FirebaseAuthDriver** - Integração com Firebase Auth
+- **FirebaseQueryDriver** - Integração com Firestore
+- **FirebaseCrashlyticsDriver** - Relatório de crashes
+- **FirebaseAnalyticsDriver** - Análise de eventos
+
+#### **factories/**
+Padrão Factory para criação de objetos:
+- **AnalyticsServiceFactory** - Factory para serviço de analytics
+
+#### **utils/**
+Utilitários e helpers:
+- **constants/** - Constantes globais da aplicação
+  - `ScreenNames` - Nomes das telas/rotas
+  - `ColorConstants` - Cores do tema
+  - `TextConstants` - Textos fixos
+  - `AnalyticsConstants` - Constantes de analytics
+  - `Typography` - Definições de tipografia
+- **text/** - Utilitários de manipulação de texto
+- **date_handler.dart** - Funções para manipulação de datas
+
+#### **assets/**
+Recursos visuais:
+- Ícones da aplicação
+- Imagens
+
+---
+
+## ⚙️ Arquivos de Configuração
+
+### **pubspec.yaml**
+Define as dependências do projeto:
+
+**Dependências principais:**
+- `firebase_core: ^4.2.0` - Core do Firebase
+- `firebase_auth: ^6.1.1` - Autenticação
+- `cloud_firestore: ^6.0.3` - Banco de dados
+- `firebase_analytics: ^12.0.3` - Análise de eventos
+- `firebase_crashlytics: ^5.0.3` - Relatório de erros
+- `firebase_performance: ^0.11.1+1` - Monitoramento de performance
+- `firebase_remote_config: ^6.1.0` - Configuração remota
+- `provider: ^6.1.5+1` - Gerenciamento de estado
+- `flutter_screenutil: ^5.9.3` - Responsividade
+- `intl: ^0.20.2` - Internacionalização
+- `uuid: ^4.5.1` - Geração de IDs únicos
+
+**Versão SDK:** Dart ^3.9.2
+
+### **android/app/build.gradle.kts**
+Configurações específicas do Android:
+- **Package:** com.fachini.barbeiro.barbeiro
+- **Java Version:** VERSION_11
+- **Plugins:** Google Services, Crashlytics, Performance
+
+### **firebase.json**
+Configuração do Firebase:
+- **Project ID:** dev-barbeiro
+- Suporte para Android e iOS
+- Configurações armazenadas em `lib/firebase_options.dart`
+
+### **analysis_options.yaml**
+Regras de análise e linting:
+- Utiliza `flutter_lints` para manter qualidade de código
+
+### **flutter_launcher_icons.yaml**
+Configuração de geração automática de ícones:
+- Define ícones para Android e iOS
+
+---
+
+## 🎨 Arquitetura
+
+### **Padrão Arquitetural: MVVM com Camadas**
+
+```
+┌─────────────────────────────────────┐
+│   Presentation Layer                │
+│   (Pages, Components, ViewModels)   │
+└──────────────┬──────────────────────┘
+               │
+┌──────────────▼──────────────────────┐
+│   Application Layer                 │
+│   (Services, Factories)             │
+└──────────────┬──────────────────────┘
+               │
+┌──────────────▼──────────────────────┐
+│   Domain Layer                      │
+│   (Entities, DTOs, Enums)           │
+└──────────────┬──────────────────────┘
+               │
+┌──────────────▼──────────────────────┐
+│   Infrastructure Layer              │
+│   (Firebase Drivers)                │
+└──────────────┬──────────────────────┘
+               │
+┌──────────────▼──────────────────────┐
+│   Cross-cutting (Utils, Constants)  │
+└─────────────────────────────────────┘
+```
+
+### **Gerenciamento de Estado**
+- **Provider:** Utilizado para reatividade e injeção de dependências
+- **ChangeNotifierProvider:** Para ViewModels reativos
+- **MultiProvider:** Para múltiplos providers
+
+---
+
+## 🗺️ Rotas da Aplicação
+
+| Rota | Tela | ViewModel |
+|------|------|-----------|
+| `/login` | LoginPage | LoginPageViewModel |
+| `/home` | HomePage | HomePageViewModel |
+| `/schedule` | SchedulePage | SchedulePageViewModel + CalendarComponentViewModel |
+| `/schedule/add` | ScheduleAddItemPage | ScheduleAddItemPageViewModel |
+| `/schedule/:id` | ScheduleViewItemPage | ScheduleViewItemPageViewModel |
+| `/catalog` | CatalogPage | CatalogViewmodel |
+| `/profile` | ProfilePage | ProfilePageViewModel |
+| `/profiting` | ProfitingPage | ProfitingPageViewModel |
+| `/expenses` | ExpensesPage | ExpensesPageViewModel |
+| `/test` | TestePage | TestePageViewModel |
+
+---
+
+## 🔐 Características Técnicas
+
+### **Responsividade**
+- ScreenUtil com design size de 430x932 pixels
+- Adapta-se a diferentes tamanhos de tela
+
+### **Tema**
+- Suporte a Light/Dark mode automático
+- Colors e Typography constants centralizados
+
+### **Analytics & Monitoramento**
+- **Firebase Analytics:** Rastreamento de eventos e navegação
+- **Firebase Crashlytics:** Relatório automático de crashes
+- **Firebase Performance:** Monitoramento de performance
+
+### **Segurança**
+- Firebase Authentication para login seguro
+- Cloud Firestore para armazenamento seguro de dados
+
+### **Orientação**
+- Portrait only (modo retrato)
+
+---
+
+## 🎯 Funcionalidades Principais
+
+1. **🔐 Autenticação**
+   - Login de usuários via Firebase Auth
+   - Gerenciamento de sessão
+
+2. **📅 Agendamentos**
+   - Marcar horários para clientes
+   - Visualizar agenda em calendário
+   - Gerenciar agendamentos existentes
+
+3. **🛍️ Catálogo de Serviços**
+   - Listar serviços disponíveis
+   - Definir preços
+   - Organizar por categorias
+
+4. **👤 Perfil do Barbeiro**
+   - Gerenciar informações do profissional
+   - Configurações pessoais
+
+5. **💰 Análise de Lucros**
+   - Visualizar faturamento
+   - Gráficos de vendas
+   - Relatórios financeiros
+
+6. **💸 Controle de Despesas**
+   - Registrar despesas
+   - Análise de custos
+   - Controle financeiro
+
+---
+
+## 📊 Estatísticas do Projeto
+
+- **Total de arquivos Dart:** 97
+- **Plataformas:** iOS e Android
+- **Firebase Services:** 5 (Auth, Firestore, Analytics, Crashlytics, Performance)
+- **Padrão de UI:** Material Design 3
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+| Tecnologia | Versão | Propósito |
+|-----------|--------|----------|
+| **Flutter** | Latest | Framework de desenvolvimento |
+| **Dart** | ^3.9.2 | Linguagem de programação |
+| **Firebase** | Multiple | Backend e cloud services |
+| **Provider** | ^6.1.5+1 | State management |
+| **ScreenUtil** | ^5.9.3 | Responsividade |
+| **Intl** | ^0.20.2 | Internacionalização |
+
+---
+
+## 📝 Notas
+
+- Arquitetura bem estruturada e modular
+- Código organizado com separação clara de responsabilidades
+- Escalável para novas funcionalidades
+- Integrado com todos os principais serviços Firebase
+- Segue boas práticas de desenvolvimento Flutter
+
+---
+
+**Desenvolvido com ❤️ | Barbeiro App**
