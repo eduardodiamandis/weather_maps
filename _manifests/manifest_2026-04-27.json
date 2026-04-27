@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T09:34:33",
+  "generated_at": "2026-04-27T09:43:53",
   "run_date": "2026-04-27",
   "forecast_mode": "both",
   "forecast_days": 15,
@@ -26,20 +26,6 @@
       "country": "Brazil",
       "folder": "GFS_ENSEMBLE_Soy",
       "mode": "daily",
-      "day_index": 0,
-      "start": "2026-04-27",
-      "end": "2026-04-27",
-      "status": "ok",
-      "message": "",
-      "bytes": 45088,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_00.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837704399496.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "daily",
       "day_index": 5,
       "start": "2026-05-02",
       "end": "2026-05-02",
@@ -48,7 +34,7 @@
       "bytes": 46750,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_05.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838007780480.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837738831436.png"
     },
     {
       "country": "Brazil",
@@ -62,7 +48,7 @@
       "bytes": 45004,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_04.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837213901888.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837789592534.png"
     },
     {
       "country": "Brazil",
@@ -76,7 +62,7 @@
       "bytes": 44362,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_03.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838115973823.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838534469868.png"
     },
     {
       "country": "Brazil",
@@ -90,7 +76,7 @@
       "bytes": 45728,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_01.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837203098450.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838659489323.png"
     },
     {
       "country": "Brazil",
@@ -104,49 +90,21 @@
       "bytes": 45538,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_02.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837433123290.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837879510238.png"
     },
     {
       "country": "Brazil",
       "folder": "GFS_ENSEMBLE_Soy",
       "mode": "daily",
-      "day_index": 7,
-      "start": "2026-05-04",
-      "end": "2026-05-04",
+      "day_index": 0,
+      "start": "2026-04-27",
+      "end": "2026-04-27",
       "status": "ok",
       "message": "",
-      "bytes": 46830,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_07.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837113664673.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 10,
-      "start": "2026-05-07",
-      "end": "2026-05-07",
-      "status": "ok",
-      "message": "",
-      "bytes": 53642,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_10.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837546533997.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 8,
-      "start": "2026-05-05",
-      "end": "2026-05-05",
-      "status": "ok",
-      "message": "",
-      "bytes": 49943,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_08.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837313337111.png"
+      "bytes": 45088,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_00.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_00.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838552458782.png"
     },
     {
       "country": "Brazil",
@@ -160,7 +118,49 @@
       "bytes": 46036,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_06.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837689673014.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838287439344.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 10,
+      "start": "2026-05-07",
+      "end": "2026-05-07",
+      "status": "ok",
+      "message": "",
+      "bytes": 53642,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_10.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_10.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838591864217.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 7,
+      "start": "2026-05-04",
+      "end": "2026-05-04",
+      "status": "ok",
+      "message": "",
+      "bytes": 46830,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_07.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_07.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837941304829.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 8,
+      "start": "2026-05-05",
+      "end": "2026-05-05",
+      "status": "ok",
+      "message": "",
+      "bytes": 49943,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_08.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_08.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837651013633.png"
     },
     {
       "country": "Brazil",
@@ -174,7 +174,7 @@
       "bytes": 51655,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_09.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837603034959.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838220049835.png"
     },
     {
       "country": "Brazil",
@@ -188,21 +188,7 @@
       "bytes": 53555,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_11.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837559303839.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 12,
-      "start": "2026-05-09",
-      "end": "2026-05-09",
-      "status": "ok",
-      "message": "",
-      "bytes": 53406,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_12.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837806659884.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838148672724.png"
     },
     {
       "country": "Brazil",
@@ -216,7 +202,21 @@
       "bytes": 52534,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_13.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837378811525.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838059013181.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 12,
+      "start": "2026-05-09",
+      "end": "2026-05-09",
+      "status": "ok",
+      "message": "",
+      "bytes": 53406,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_12.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_12.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838522941230.png"
     },
     {
       "country": "Brazil",
@@ -230,7 +230,7 @@
       "bytes": 45088,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_00.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837389783305.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838529459044.png"
     },
     {
       "country": "Brazil",
@@ -244,21 +244,7 @@
       "bytes": 46537,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_01.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837394047399.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 2,
-      "start": "2026-04-27",
-      "end": "2026-04-29",
-      "status": "ok",
-      "message": "",
-      "bytes": 47079,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_02.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837767030488.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838288476776.png"
     },
     {
       "country": "Brazil",
@@ -272,7 +258,21 @@
       "bytes": 50977,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\dia_14.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837578517378.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838519254761.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 2,
+      "start": "2026-04-27",
+      "end": "2026-04-29",
+      "status": "ok",
+      "message": "",
+      "bytes": 47079,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_02.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_02.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837686359147.png"
     },
     {
       "country": "Brazil",
@@ -286,35 +286,7 @@
       "bytes": 46819,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_03.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837841367917.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 4,
-      "start": "2026-04-27",
-      "end": "2026-05-01",
-      "status": "ok",
-      "message": "",
-      "bytes": 48295,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_04.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837701990509.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 6,
-      "start": "2026-04-27",
-      "end": "2026-05-03",
-      "status": "ok",
-      "message": "",
-      "bytes": 48407,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_06.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837933801531.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838260236170.png"
     },
     {
       "country": "Brazil",
@@ -328,7 +300,35 @@
       "bytes": 48000,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_05.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837169290324.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838423706111.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 6,
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "status": "ok",
+      "message": "",
+      "bytes": 48407,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_06.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_06.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838252845546.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 4,
+      "start": "2026-04-27",
+      "end": "2026-05-01",
+      "status": "ok",
+      "message": "",
+      "bytes": 48295,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_04.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_04.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838497771799.png"
     },
     {
       "country": "Brazil",
@@ -342,7 +342,7 @@
       "bytes": 48859,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_07.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837987796018.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837704643543.png"
     },
     {
       "country": "Brazil",
@@ -356,7 +356,7 @@
       "bytes": 49368,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_08.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837284325394.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837936751256.png"
     },
     {
       "country": "Brazil",
@@ -370,7 +370,7 @@
       "bytes": 50026,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_09.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837709733834.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838339289701.png"
     },
     {
       "country": "Brazil",
@@ -384,35 +384,7 @@
       "bytes": 50164,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_10.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837927101804.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 0,
-      "start": "2026-04-27",
-      "end": "2026-04-27",
-      "status": "ok",
-      "message": "",
-      "bytes": 43684,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_00.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837183944514.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 14,
-      "start": "2026-04-27",
-      "end": "2026-05-11",
-      "status": "ok",
-      "message": "",
-      "bytes": 52105,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_14.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837790143373.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838616436014.png"
     },
     {
       "country": "Brazil",
@@ -426,35 +398,35 @@
       "bytes": 50934,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_11.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837521296911.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837826389296.png"
     },
     {
       "country": "Brazil",
       "folder": "GFS_ENSEMBLE_Corn_Winter",
       "mode": "daily",
-      "day_index": 1,
-      "start": "2026-04-28",
-      "end": "2026-04-28",
+      "day_index": 0,
+      "start": "2026-04-27",
+      "end": "2026-04-27",
       "status": "ok",
       "message": "",
-      "bytes": 44271,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_01.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837388034489.png"
+      "bytes": 43684,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_00.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_00.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838023042677.png"
     },
     {
       "country": "Brazil",
       "folder": "GFS_ENSEMBLE_Soy",
       "mode": "cumulative",
-      "day_index": 12,
+      "day_index": 14,
       "start": "2026-04-27",
-      "end": "2026-05-09",
+      "end": "2026-05-11",
       "status": "ok",
       "message": "",
-      "bytes": 51630,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_12.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837911491672.png"
+      "bytes": 52105,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_14.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_14.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838326177065.png"
     },
     {
       "country": "Brazil",
@@ -468,7 +440,35 @@
       "bytes": 51859,
       "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_13.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838003669350.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838522014985.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 12,
+      "start": "2026-04-27",
+      "end": "2026-05-09",
+      "status": "ok",
+      "message": "",
+      "bytes": 51630,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_12.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_12.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838418000822.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 1,
+      "start": "2026-04-28",
+      "end": "2026-04-28",
+      "status": "ok",
+      "message": "",
+      "bytes": 44271,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_01.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_01.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837813520946.png"
     },
     {
       "country": "Brazil",
@@ -482,21 +482,7 @@
       "bytes": 44041,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_02.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837287994503.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 3,
-      "start": "2026-04-30",
-      "end": "2026-04-30",
-      "status": "ok",
-      "message": "",
-      "bytes": 43003,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_03.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837296204096.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838413712927.png"
     },
     {
       "country": "Brazil",
@@ -510,35 +496,21 @@
       "bytes": 43741,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_04.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837974416799.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838614198597.png"
     },
     {
       "country": "Brazil",
       "folder": "GFS_ENSEMBLE_Corn_Winter",
       "mode": "daily",
-      "day_index": 5,
-      "start": "2026-05-02",
-      "end": "2026-05-02",
+      "day_index": 3,
+      "start": "2026-04-30",
+      "end": "2026-04-30",
       "status": "ok",
       "message": "",
-      "bytes": 45426,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_05.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837985490538.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 8,
-      "start": "2026-05-05",
-      "end": "2026-05-05",
-      "status": "ok",
-      "message": "",
-      "bytes": 48273,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_08.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837408916692.png"
+      "bytes": 43003,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_03.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_03.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837823266349.png"
     },
     {
       "country": "Brazil",
@@ -552,21 +524,21 @@
       "bytes": 44223,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_06.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837548474017.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838099254983.png"
     },
     {
       "country": "Brazil",
       "folder": "GFS_ENSEMBLE_Corn_Winter",
       "mode": "daily",
-      "day_index": 9,
-      "start": "2026-05-06",
-      "end": "2026-05-06",
+      "day_index": 5,
+      "start": "2026-05-02",
+      "end": "2026-05-02",
       "status": "ok",
       "message": "",
-      "bytes": 50096,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_09.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837252263717.png"
+      "bytes": 45426,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_05.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_05.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838244429166.png"
     },
     {
       "country": "Brazil",
@@ -580,21 +552,21 @@
       "bytes": 45146,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_07.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837966441065.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837801958245.png"
     },
     {
       "country": "Brazil",
       "folder": "GFS_ENSEMBLE_Corn_Winter",
       "mode": "daily",
-      "day_index": 10,
-      "start": "2026-05-07",
-      "end": "2026-05-07",
+      "day_index": 8,
+      "start": "2026-05-05",
+      "end": "2026-05-05",
       "status": "ok",
       "message": "",
-      "bytes": 52279,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_10.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837608619274.png"
+      "bytes": 48273,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_08.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_08.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838246149571.png"
     },
     {
       "country": "Brazil",
@@ -608,7 +580,35 @@
       "bytes": 52092,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_11.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837614597528.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838412321244.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 10,
+      "start": "2026-05-07",
+      "end": "2026-05-07",
+      "status": "ok",
+      "message": "",
+      "bytes": 52279,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_10.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_10.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837633309697.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 9,
+      "start": "2026-05-06",
+      "end": "2026-05-06",
+      "status": "ok",
+      "message": "",
+      "bytes": 50096,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_09.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_09.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837652010568.png"
     },
     {
       "country": "Brazil",
@@ -622,7 +622,7 @@
       "bytes": 52013,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_12.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837444340095.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838350203234.png"
     },
     {
       "country": "Brazil",
@@ -636,21 +636,7 @@
       "bytes": 50763,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_13.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837327779004.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 0,
-      "start": "2026-04-27",
-      "end": "2026-04-27",
-      "status": "ok",
-      "message": "",
-      "bytes": 43684,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_00.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837820311711.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838495631686.png"
     },
     {
       "country": "Brazil",
@@ -664,7 +650,21 @@
       "bytes": 49405,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\dia_14.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837956150374.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838505483206.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 0,
+      "start": "2026-04-27",
+      "end": "2026-04-27",
+      "status": "ok",
+      "message": "",
+      "bytes": 43684,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_00.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_00.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837630212616.png"
     },
     {
       "country": "Brazil",
@@ -678,7 +678,7 @@
       "bytes": 45144,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_01.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837358925888.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838393833582.png"
     },
     {
       "country": "Brazil",
@@ -692,7 +692,7 @@
       "bytes": 45529,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_02.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837433129636.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838640478520.png"
     },
     {
       "country": "Brazil",
@@ -706,7 +706,7 @@
       "bytes": 45300,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_03.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837178844987.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838128448651.png"
     },
     {
       "country": "Brazil",
@@ -720,7 +720,7 @@
       "bytes": 46863,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_04.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837212839893.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837952389376.png"
     },
     {
       "country": "Brazil",
@@ -734,7 +734,7 @@
       "bytes": 46640,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_05.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837534089372.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838143653440.png"
     },
     {
       "country": "Brazil",
@@ -748,21 +748,7 @@
       "bytes": 47079,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_06.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837072180757.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 7,
-      "start": "2026-04-27",
-      "end": "2026-05-04",
-      "status": "ok",
-      "message": "",
-      "bytes": 47391,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_07.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837222309697.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838522129679.png"
     },
     {
       "country": "Brazil",
@@ -776,7 +762,21 @@
       "bytes": 47830,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_08.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837489507567.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838085399325.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 7,
+      "start": "2026-04-27",
+      "end": "2026-05-04",
+      "status": "ok",
+      "message": "",
+      "bytes": 47391,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_07.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_07.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837816335319.png"
     },
     {
       "country": "Brazil",
@@ -790,21 +790,7 @@
       "bytes": 48483,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_09.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837935793442.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 10,
-      "start": "2026-04-27",
-      "end": "2026-05-07",
-      "status": "ok",
-      "message": "",
-      "bytes": 48747,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_10.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837355047117.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838511073670.png"
     },
     {
       "country": "Brazil",
@@ -818,7 +804,21 @@
       "bytes": 49739,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_11.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837948295551.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838578398039.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 10,
+      "start": "2026-04-27",
+      "end": "2026-05-07",
+      "status": "ok",
+      "message": "",
+      "bytes": 48747,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_10.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_10.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838493254789.png"
     },
     {
       "country": "Brazil",
@@ -832,7 +832,7 @@
       "bytes": 50349,
       "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_12.png",
       "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837955018615.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837875645279.png"
     },
     {
       "country": "Brazil",
@@ -846,21 +846,7 @@
       "bytes": 48580,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_00.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837400113641.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 13,
-      "start": "2026-04-27",
-      "end": "2026-05-10",
-      "status": "ok",
-      "message": "",
-      "bytes": 50592,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_13.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837614595539.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837754665427.png"
     },
     {
       "country": "Brazil",
@@ -874,49 +860,7 @@
       "bytes": 47502,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_01.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837102637885.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 14,
-      "start": "2026-04-27",
-      "end": "2026-05-11",
-      "status": "ok",
-      "message": "",
-      "bytes": 50773,
-      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_14.png",
-      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837726979172.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 3,
-      "start": "2026-04-30",
-      "end": "2026-04-30",
-      "status": "ok",
-      "message": "",
-      "bytes": 46441,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_03.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837291146643.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 7,
-      "start": "2026-05-04",
-      "end": "2026-05-04",
-      "status": "ok",
-      "message": "",
-      "bytes": 48760,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_07.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837269385255.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838113391664.png"
     },
     {
       "country": "Brazil",
@@ -930,7 +874,35 @@
       "bytes": 47182,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_02.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837274743410.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838259228905.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 14,
+      "start": "2026-04-27",
+      "end": "2026-05-11",
+      "status": "ok",
+      "message": "",
+      "bytes": 50773,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_14.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_14.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838302843555.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 13,
+      "start": "2026-04-27",
+      "end": "2026-05-10",
+      "status": "ok",
+      "message": "",
+      "bytes": 50592,
+      "current_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_13.png",
+      "history_path": "Brazil\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_13.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838497306624.png"
     },
     {
       "country": "Brazil",
@@ -944,7 +916,21 @@
       "bytes": 46815,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_04.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837600920980.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838334148900.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 3,
+      "start": "2026-04-30",
+      "end": "2026-04-30",
+      "status": "ok",
+      "message": "",
+      "bytes": 46441,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_03.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_03.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838539320280.png"
     },
     {
       "country": "Brazil",
@@ -958,7 +944,7 @@
       "bytes": 46509,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_06.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838044065042.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838054737142.png"
     },
     {
       "country": "Brazil",
@@ -972,7 +958,7 @@
       "bytes": 48018,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_05.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837184109603.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837829687950.png"
     },
     {
       "country": "Brazil",
@@ -986,7 +972,7 @@
       "bytes": 49272,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_08.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838081313436.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838326916442.png"
     },
     {
       "country": "Brazil",
@@ -1000,7 +986,21 @@
       "bytes": 49569,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_10.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837796833161.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837796673984.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 7,
+      "start": "2026-05-04",
+      "end": "2026-05-04",
+      "status": "ok",
+      "message": "",
+      "bytes": 48760,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_07.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_07.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838596927266.png"
     },
     {
       "country": "Brazil",
@@ -1014,7 +1014,7 @@
       "bytes": 50906,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_09.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837219951895.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838548070145.png"
     },
     {
       "country": "Brazil",
@@ -1028,63 +1028,7 @@
       "bytes": 50685,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_11.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837464217136.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 12,
-      "start": "2026-05-09",
-      "end": "2026-05-09",
-      "status": "ok",
-      "message": "",
-      "bytes": 52233,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_12.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837678731406.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 13,
-      "start": "2026-05-10",
-      "end": "2026-05-10",
-      "status": "ok",
-      "message": "",
-      "bytes": 54207,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_13.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837130319115.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 14,
-      "start": "2026-05-11",
-      "end": "2026-05-11",
-      "status": "ok",
-      "message": "",
-      "bytes": 53281,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_14.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838033139923.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 2,
-      "start": "2026-04-27",
-      "end": "2026-04-29",
-      "status": "ok",
-      "message": "",
-      "bytes": 49376,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_02.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837247262724.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838625065452.png"
     },
     {
       "country": "Brazil",
@@ -1098,7 +1042,63 @@
       "bytes": 48580,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_00.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837314985268.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838487190693.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 12,
+      "start": "2026-05-09",
+      "end": "2026-05-09",
+      "status": "ok",
+      "message": "",
+      "bytes": 52233,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_12.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_12.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837699072533.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 13,
+      "start": "2026-05-10",
+      "end": "2026-05-10",
+      "status": "ok",
+      "message": "",
+      "bytes": 54207,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_13.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_13.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837742117651.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 2,
+      "start": "2026-04-27",
+      "end": "2026-04-29",
+      "status": "ok",
+      "message": "",
+      "bytes": 49376,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_02.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_02.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838233386773.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 14,
+      "start": "2026-05-11",
+      "end": "2026-05-11",
+      "status": "ok",
+      "message": "",
+      "bytes": 53281,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\dia_14.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_14.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838409079768.png"
     },
     {
       "country": "Brazil",
@@ -1112,7 +1112,7 @@
       "bytes": 49149,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_01.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837176399442.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838472290384.png"
     },
     {
       "country": "Brazil",
@@ -1126,7 +1126,7 @@
       "bytes": 49002,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_03.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837759091840.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838097289401.png"
     },
     {
       "country": "Brazil",
@@ -1140,35 +1140,7 @@
       "bytes": 51121,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_04.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837599665356.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 5,
-      "start": "2026-04-27",
-      "end": "2026-05-02",
-      "status": "ok",
-      "message": "",
-      "bytes": 50859,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_05.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837795501142.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 7,
-      "start": "2026-04-27",
-      "end": "2026-05-04",
-      "status": "ok",
-      "message": "",
-      "bytes": 51568,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_07.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837801975864.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838544699883.png"
     },
     {
       "country": "Brazil",
@@ -1182,21 +1154,35 @@
       "bytes": 50933,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_06.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837218518389.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837887336957.png"
     },
     {
       "country": "Brazil",
       "folder": "ECM_ENSEMBLE_Soy",
       "mode": "cumulative",
-      "day_index": 10,
+      "day_index": 5,
       "start": "2026-04-27",
-      "end": "2026-05-07",
+      "end": "2026-05-02",
       "status": "ok",
       "message": "",
-      "bytes": 51987,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_10.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837337462831.png"
+      "bytes": 50859,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_05.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_05.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838241916274.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 7,
+      "start": "2026-04-27",
+      "end": "2026-05-04",
+      "status": "ok",
+      "message": "",
+      "bytes": 51568,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_07.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_07.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837745662433.png"
     },
     {
       "country": "Brazil",
@@ -1210,7 +1196,7 @@
       "bytes": 51723,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_08.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837242045933.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838478883255.png"
     },
     {
       "country": "Brazil",
@@ -1224,7 +1210,21 @@
       "bytes": 52019,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_09.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837589321437.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838456864875.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 10,
+      "start": "2026-04-27",
+      "end": "2026-05-07",
+      "status": "ok",
+      "message": "",
+      "bytes": 51987,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_10.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_10.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837885089499.png"
     },
     {
       "country": "Brazil",
@@ -1238,35 +1238,7 @@
       "bytes": 52185,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_11.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837288872376.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 0,
-      "start": "2026-04-27",
-      "end": "2026-04-27",
-      "status": "ok",
-      "message": "",
-      "bytes": 47133,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_00.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837274711884.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 1,
-      "start": "2026-04-28",
-      "end": "2026-04-28",
-      "status": "ok",
-      "message": "",
-      "bytes": 46058,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_01.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837124120945.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838211045088.png"
     },
     {
       "country": "Brazil",
@@ -1280,35 +1252,7 @@
       "bytes": 52473,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_12.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838067733025.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 2,
-      "start": "2026-04-29",
-      "end": "2026-04-29",
-      "status": "ok",
-      "message": "",
-      "bytes": 45777,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_02.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837132691413.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 13,
-      "start": "2026-04-27",
-      "end": "2026-05-10",
-      "status": "ok",
-      "message": "",
-      "bytes": 52857,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_13.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837281884938.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838213109712.png"
     },
     {
       "country": "Brazil",
@@ -1322,7 +1266,49 @@
       "bytes": 53038,
       "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_14.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837098345036.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837900914960.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 13,
+      "start": "2026-04-27",
+      "end": "2026-05-10",
+      "status": "ok",
+      "message": "",
+      "bytes": 52857,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_13.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_13.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838409717565.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 1,
+      "start": "2026-04-28",
+      "end": "2026-04-28",
+      "status": "ok",
+      "message": "",
+      "bytes": 46058,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_01.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_01.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837795562386.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 0,
+      "start": "2026-04-27",
+      "end": "2026-04-27",
+      "status": "ok",
+      "message": "",
+      "bytes": 47133,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_00.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_00.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837929537222.png"
     },
     {
       "country": "Brazil",
@@ -1336,21 +1322,21 @@
       "bytes": 45366,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_03.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837850959159.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838222707001.png"
     },
     {
       "country": "Brazil",
       "folder": "ECM_ENSEMBLE_Corn_Winter",
       "mode": "daily",
-      "day_index": 4,
-      "start": "2026-05-01",
-      "end": "2026-05-01",
+      "day_index": 2,
+      "start": "2026-04-29",
+      "end": "2026-04-29",
       "status": "ok",
       "message": "",
-      "bytes": 45386,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_04.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837747249836.png"
+      "bytes": 45777,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_02.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_02.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838605974971.png"
     },
     {
       "country": "Brazil",
@@ -1364,63 +1350,21 @@
       "bytes": 46596,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_05.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837953545562.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838428460341.png"
     },
     {
       "country": "Brazil",
       "folder": "ECM_ENSEMBLE_Corn_Winter",
       "mode": "daily",
-      "day_index": 9,
-      "start": "2026-05-06",
-      "end": "2026-05-06",
+      "day_index": 4,
+      "start": "2026-05-01",
+      "end": "2026-05-01",
       "status": "ok",
       "message": "",
-      "bytes": 49442,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_09.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837467000867.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 10,
-      "start": "2026-05-07",
-      "end": "2026-05-07",
-      "status": "ok",
-      "message": "",
-      "bytes": 47966,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_10.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837505748392.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 6,
-      "start": "2026-05-03",
-      "end": "2026-05-03",
-      "status": "ok",
-      "message": "",
-      "bytes": 44945,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_06.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837404138164.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 8,
-      "start": "2026-05-05",
-      "end": "2026-05-05",
-      "status": "ok",
-      "message": "",
-      "bytes": 47766,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_08.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837585368967.png"
+      "bytes": 45386,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_04.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_04.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837713627660.png"
     },
     {
       "country": "Brazil",
@@ -1434,7 +1378,63 @@
       "bytes": 46978,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_07.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837477563935.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838075763684.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 6,
+      "start": "2026-05-03",
+      "end": "2026-05-03",
+      "status": "ok",
+      "message": "",
+      "bytes": 44945,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_06.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_06.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838308758521.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 9,
+      "start": "2026-05-06",
+      "end": "2026-05-06",
+      "status": "ok",
+      "message": "",
+      "bytes": 49442,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_09.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_09.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838209369295.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 10,
+      "start": "2026-05-07",
+      "end": "2026-05-07",
+      "status": "ok",
+      "message": "",
+      "bytes": 47966,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_10.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_10.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837895875506.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 8,
+      "start": "2026-05-05",
+      "end": "2026-05-05",
+      "status": "ok",
+      "message": "",
+      "bytes": 47766,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_08.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_08.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838534767462.png"
     },
     {
       "country": "Brazil",
@@ -1448,7 +1448,7 @@
       "bytes": 49528,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_11.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838000206970.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838307455592.png"
     },
     {
       "country": "Brazil",
@@ -1462,7 +1462,7 @@
       "bytes": 51061,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_12.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837954730295.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838042795461.png"
     },
     {
       "country": "Brazil",
@@ -1476,35 +1476,7 @@
       "bytes": 52587,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_13.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838099613062.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 1,
-      "start": "2026-04-27",
-      "end": "2026-04-28",
-      "status": "ok",
-      "message": "",
-      "bytes": 47695,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_01.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837384458165.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 0,
-      "start": "2026-04-27",
-      "end": "2026-04-27",
-      "status": "ok",
-      "message": "",
-      "bytes": 47133,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_00.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837441317272.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837682979445.png"
     },
     {
       "country": "Brazil",
@@ -1518,7 +1490,35 @@
       "bytes": 51570,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\dia_14.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837648816463.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838447997721.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 0,
+      "start": "2026-04-27",
+      "end": "2026-04-27",
+      "status": "ok",
+      "message": "",
+      "bytes": 47133,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_00.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_00.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837787534335.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 1,
+      "start": "2026-04-27",
+      "end": "2026-04-28",
+      "status": "ok",
+      "message": "",
+      "bytes": 47695,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_01.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_01.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837937155689.png"
     },
     {
       "country": "Brazil",
@@ -1532,7 +1532,7 @@
       "bytes": 47881,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_02.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837928647539.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838136945692.png"
     },
     {
       "country": "Brazil",
@@ -1546,7 +1546,7 @@
       "bytes": 47726,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_03.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837828867909.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838254062962.png"
     },
     {
       "country": "Brazil",
@@ -1560,21 +1560,7 @@
       "bytes": 49727,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_04.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838079023953.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 5,
-      "start": "2026-04-27",
-      "end": "2026-05-02",
-      "status": "ok",
-      "message": "",
-      "bytes": 49790,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_05.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838037980674.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838197141673.png"
     },
     {
       "country": "Brazil",
@@ -1588,7 +1574,21 @@
       "bytes": 49627,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_06.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837474053115.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837732601758.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 5,
+      "start": "2026-04-27",
+      "end": "2026-05-02",
+      "status": "ok",
+      "message": "",
+      "bytes": 49790,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_05.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_05.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838412267862.png"
     },
     {
       "country": "Brazil",
@@ -1602,7 +1602,7 @@
       "bytes": 50358,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_07.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837920465738.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837898380375.png"
     },
     {
       "country": "Brazil",
@@ -1616,7 +1616,7 @@
       "bytes": 50594,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_08.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837792097565.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838068487537.png"
     },
     {
       "country": "Brazil",
@@ -1630,7 +1630,7 @@
       "bytes": 50812,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_09.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837817237520.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838569042859.png"
     },
     {
       "country": "Brazil",
@@ -1644,21 +1644,7 @@
       "bytes": 50748,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_10.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838060471822.png"
-    },
-    {
-      "country": "Brazil",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 11,
-      "start": "2026-04-27",
-      "end": "2026-05-08",
-      "status": "ok",
-      "message": "",
-      "bytes": 50911,
-      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_11.png",
-      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837630131825.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838378333057.png"
     },
     {
       "country": "Argentina",
@@ -1672,7 +1658,21 @@
       "bytes": 35723,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_00.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837621107419.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838288703235.png"
+    },
+    {
+      "country": "Brazil",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 11,
+      "start": "2026-04-27",
+      "end": "2026-05-08",
+      "status": "ok",
+      "message": "",
+      "bytes": 50911,
+      "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_11.png",
+      "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_11.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838104696757.png"
     },
     {
       "country": "Argentina",
@@ -1686,21 +1686,7 @@
       "bytes": 35689,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_01.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837204250323.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 2,
-      "start": "2026-04-29",
-      "end": "2026-04-29",
-      "status": "ok",
-      "message": "",
-      "bytes": 34689,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_02.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837343311329.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837718259966.png"
     },
     {
       "country": "Brazil",
@@ -1714,7 +1700,7 @@
       "bytes": 51485,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_13.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838016088582.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838360858534.png"
     },
     {
       "country": "Brazil",
@@ -1728,7 +1714,7 @@
       "bytes": 51144,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_12.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838037314937.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838601134428.png"
     },
     {
       "country": "Brazil",
@@ -1742,7 +1728,21 @@
       "bytes": 51681,
       "current_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_14.png",
       "history_path": "Brazil\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837243056439.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837728753832.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 2,
+      "start": "2026-04-29",
+      "end": "2026-04-29",
+      "status": "ok",
+      "message": "",
+      "bytes": 34689,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_02.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_02.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837756119314.png"
     },
     {
       "country": "Argentina",
@@ -1756,63 +1756,7 @@
       "bytes": 33840,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_03.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837484027079.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 4,
-      "start": "2026-05-01",
-      "end": "2026-05-01",
-      "status": "ok",
-      "message": "",
-      "bytes": 35211,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_04.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837388564421.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 5,
-      "start": "2026-05-02",
-      "end": "2026-05-02",
-      "status": "ok",
-      "message": "",
-      "bytes": 37333,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_05.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837612611145.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 6,
-      "start": "2026-05-03",
-      "end": "2026-05-03",
-      "status": "ok",
-      "message": "",
-      "bytes": 36302,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_06.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837145255374.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 8,
-      "start": "2026-05-05",
-      "end": "2026-05-05",
-      "status": "ok",
-      "message": "",
-      "bytes": 40443,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_08.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837125883807.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838304390248.png"
     },
     {
       "country": "Argentina",
@@ -1826,7 +1770,63 @@
       "bytes": 37366,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_07.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837430218530.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837927761968.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 8,
+      "start": "2026-05-05",
+      "end": "2026-05-05",
+      "status": "ok",
+      "message": "",
+      "bytes": 40443,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_08.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_08.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838033940226.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 5,
+      "start": "2026-05-02",
+      "end": "2026-05-02",
+      "status": "ok",
+      "message": "",
+      "bytes": 37333,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_05.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_05.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837933094081.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 4,
+      "start": "2026-05-01",
+      "end": "2026-05-01",
+      "status": "ok",
+      "message": "",
+      "bytes": 35211,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_04.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_04.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837750987048.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 6,
+      "start": "2026-05-03",
+      "end": "2026-05-03",
+      "status": "ok",
+      "message": "",
+      "bytes": 36302,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_06.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_06.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838124122050.png"
     },
     {
       "country": "Argentina",
@@ -1840,7 +1840,7 @@
       "bytes": 42509,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_09.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837234882265.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838157502888.png"
     },
     {
       "country": "Argentina",
@@ -1854,35 +1854,7 @@
       "bytes": 45634,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_10.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837360263862.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 11,
-      "start": "2026-05-08",
-      "end": "2026-05-08",
-      "status": "ok",
-      "message": "",
-      "bytes": 45398,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_11.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837886264720.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 12,
-      "start": "2026-05-09",
-      "end": "2026-05-09",
-      "status": "ok",
-      "message": "",
-      "bytes": 44983,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_12.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837422878943.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837969664487.png"
     },
     {
       "country": "Argentina",
@@ -1896,7 +1868,7 @@
       "bytes": 40691,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_14.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837633726967.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837729381213.png"
     },
     {
       "country": "Argentina",
@@ -1910,21 +1882,35 @@
       "bytes": 44114,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_13.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837707745169.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838028731800.png"
     },
     {
       "country": "Argentina",
       "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 1,
-      "start": "2026-04-27",
-      "end": "2026-04-28",
+      "mode": "daily",
+      "day_index": 11,
+      "start": "2026-05-08",
+      "end": "2026-05-08",
       "status": "ok",
       "message": "",
-      "bytes": 36948,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_01.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837988102570.png"
+      "bytes": 45398,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_11.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_11.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838061673663.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 12,
+      "start": "2026-05-09",
+      "end": "2026-05-09",
+      "status": "ok",
+      "message": "",
+      "bytes": 44983,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\dia_12.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_12.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838163776396.png"
     },
     {
       "country": "Argentina",
@@ -1938,35 +1924,21 @@
       "bytes": 35723,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_00.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837668240403.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837896841470.png"
     },
     {
       "country": "Argentina",
       "folder": "GFS_ENSEMBLE_Soy",
       "mode": "cumulative",
-      "day_index": 2,
+      "day_index": 1,
       "start": "2026-04-27",
-      "end": "2026-04-29",
+      "end": "2026-04-28",
       "status": "ok",
       "message": "",
-      "bytes": 37141,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_02.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837820867548.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 3,
-      "start": "2026-04-27",
-      "end": "2026-04-30",
-      "status": "ok",
-      "message": "",
-      "bytes": 37174,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_03.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837697305891.png"
+      "bytes": 36948,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_01.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_01.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838463279126.png"
     },
     {
       "country": "Argentina",
@@ -1980,7 +1952,21 @@
       "bytes": 38997,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_05.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837747432618.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838045362855.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 2,
+      "start": "2026-04-27",
+      "end": "2026-04-29",
+      "status": "ok",
+      "message": "",
+      "bytes": 37141,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_02.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_02.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837693895981.png"
     },
     {
       "country": "Argentina",
@@ -1994,7 +1980,21 @@
       "bytes": 39015,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_04.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837581244748.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838707071470.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 3,
+      "start": "2026-04-27",
+      "end": "2026-04-30",
+      "status": "ok",
+      "message": "",
+      "bytes": 37174,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_03.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_03.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838566807084.png"
     },
     {
       "country": "Argentina",
@@ -2008,7 +2008,7 @@
       "bytes": 38898,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_06.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837603658869.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838049638961.png"
     },
     {
       "country": "Argentina",
@@ -2022,7 +2022,7 @@
       "bytes": 39344,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_07.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837567795150.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838137858653.png"
     },
     {
       "country": "Argentina",
@@ -2036,7 +2036,7 @@
       "bytes": 39918,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_08.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837832916420.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838414862780.png"
     },
     {
       "country": "Argentina",
@@ -2050,7 +2050,7 @@
       "bytes": 40626,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_09.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837212044938.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837779127345.png"
     },
     {
       "country": "Argentina",
@@ -2064,7 +2064,7 @@
       "bytes": 40994,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_10.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837376874404.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838268139307.png"
     },
     {
       "country": "Argentina",
@@ -2078,7 +2078,7 @@
       "bytes": 42099,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_11.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837442465676.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837698348683.png"
     },
     {
       "country": "Argentina",
@@ -2092,21 +2092,7 @@
       "bytes": 42636,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_12.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837841596755.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 14,
-      "start": "2026-04-27",
-      "end": "2026-05-11",
-      "status": "ok",
-      "message": "",
-      "bytes": 43020,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_14.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837317744276.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837799699343.png"
     },
     {
       "country": "Argentina",
@@ -2120,7 +2106,7 @@
       "bytes": 34377,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_00.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837468343123.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838015631833.png"
     },
     {
       "country": "Argentina",
@@ -2134,7 +2120,7 @@
       "bytes": 43209,
       "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_13.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837487976388.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838290815797.png"
     },
     {
       "country": "Argentina",
@@ -2148,7 +2134,21 @@
       "bytes": 34044,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_01.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837603849490.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838500420293.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 14,
+      "start": "2026-04-27",
+      "end": "2026-05-11",
+      "status": "ok",
+      "message": "",
+      "bytes": 43020,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Soy\\_cumulative\\dia_14.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_14.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838516103611.png"
     },
     {
       "country": "Argentina",
@@ -2162,21 +2162,7 @@
       "bytes": 32906,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_02.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837748724970.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 3,
-      "start": "2026-04-30",
-      "end": "2026-04-30",
-      "status": "ok",
-      "message": "",
-      "bytes": 32049,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_03.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837831906903.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837797361276.png"
     },
     {
       "country": "Argentina",
@@ -2190,21 +2176,21 @@
       "bytes": 33595,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_04.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837697667873.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837929942177.png"
     },
     {
       "country": "Argentina",
       "folder": "GFS_ENSEMBLE_Corn_Winter",
       "mode": "daily",
-      "day_index": 7,
-      "start": "2026-05-04",
-      "end": "2026-05-04",
+      "day_index": 3,
+      "start": "2026-04-30",
+      "end": "2026-04-30",
       "status": "ok",
       "message": "",
-      "bytes": 35395,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_07.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837847004250.png"
+      "bytes": 32049,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_03.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_03.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838154163459.png"
     },
     {
       "country": "Argentina",
@@ -2218,7 +2204,21 @@
       "bytes": 35718,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_05.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837661666687.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838023578088.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 7,
+      "start": "2026-05-04",
+      "end": "2026-05-04",
+      "status": "ok",
+      "message": "",
+      "bytes": 35395,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_07.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_07.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838570670776.png"
     },
     {
       "country": "Argentina",
@@ -2232,7 +2232,7 @@
       "bytes": 34607,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_06.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837936685239.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838475435967.png"
     },
     {
       "country": "Argentina",
@@ -2246,35 +2246,7 @@
       "bytes": 38547,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_08.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837357936461.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 9,
-      "start": "2026-05-06",
-      "end": "2026-05-06",
-      "status": "ok",
-      "message": "",
-      "bytes": 40917,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_09.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837361437597.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 10,
-      "start": "2026-05-07",
-      "end": "2026-05-07",
-      "status": "ok",
-      "message": "",
-      "bytes": 44194,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_10.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837886161201.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838465143308.png"
     },
     {
       "country": "Argentina",
@@ -2288,7 +2260,35 @@
       "bytes": 43490,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_12.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837557661777.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838155033584.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 9,
+      "start": "2026-05-06",
+      "end": "2026-05-06",
+      "status": "ok",
+      "message": "",
+      "bytes": 40917,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_09.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_09.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838612990382.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 10,
+      "start": "2026-05-07",
+      "end": "2026-05-07",
+      "status": "ok",
+      "message": "",
+      "bytes": 44194,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_10.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_10.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838594438909.png"
     },
     {
       "country": "Argentina",
@@ -2302,21 +2302,7 @@
       "bytes": 43833,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_11.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837837933716.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 14,
-      "start": "2026-05-11",
-      "end": "2026-05-11",
-      "status": "ok",
-      "message": "",
-      "bytes": 38954,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_14.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837681386959.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838636225839.png"
     },
     {
       "country": "Argentina",
@@ -2330,7 +2316,21 @@
       "bytes": 42359,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_13.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837835185397.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838014718811.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 14,
+      "start": "2026-05-11",
+      "end": "2026-05-11",
+      "status": "ok",
+      "message": "",
+      "bytes": 38954,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\dia_14.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_14.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838053565748.png"
     },
     {
       "country": "Argentina",
@@ -2344,7 +2344,7 @@
       "bytes": 34377,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_00.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837899547101.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838461749821.png"
     },
     {
       "country": "Argentina",
@@ -2358,7 +2358,7 @@
       "bytes": 35455,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_01.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837233888041.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838673392483.png"
     },
     {
       "country": "Argentina",
@@ -2372,35 +2372,7 @@
       "bytes": 35488,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_02.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837329383448.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 6,
-      "start": "2026-04-27",
-      "end": "2026-05-03",
-      "status": "ok",
-      "message": "",
-      "bytes": 37259,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_06.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837897371434.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 4,
-      "start": "2026-04-27",
-      "end": "2026-05-01",
-      "status": "ok",
-      "message": "",
-      "bytes": 37434,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_04.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837325886436.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837735027198.png"
     },
     {
       "country": "Argentina",
@@ -2414,7 +2386,21 @@
       "bytes": 35435,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_03.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837352042414.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838158612265.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 4,
+      "start": "2026-04-27",
+      "end": "2026-05-01",
+      "status": "ok",
+      "message": "",
+      "bytes": 37434,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_04.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_04.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838357737601.png"
     },
     {
       "country": "Argentina",
@@ -2428,7 +2414,21 @@
       "bytes": 37289,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_05.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837334383858.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838416900726.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 6,
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "status": "ok",
+      "message": "",
+      "bytes": 37259,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_06.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_06.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837802205135.png"
     },
     {
       "country": "Argentina",
@@ -2442,7 +2442,7 @@
       "bytes": 37563,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_07.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837629764682.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838211421628.png"
     },
     {
       "country": "Argentina",
@@ -2456,21 +2456,7 @@
       "bytes": 38282,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_08.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838051816377.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 11,
-      "start": "2026-04-27",
-      "end": "2026-05-08",
-      "status": "ok",
-      "message": "",
-      "bytes": 40608,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_11.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837948024859.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838317470672.png"
     },
     {
       "country": "Argentina",
@@ -2484,7 +2470,7 @@
       "bytes": 38782,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_09.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838012766212.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838174734559.png"
     },
     {
       "country": "Argentina",
@@ -2498,7 +2484,21 @@
       "bytes": 39278,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_10.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837862983814.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837854538017.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 11,
+      "start": "2026-04-27",
+      "end": "2026-05-08",
+      "status": "ok",
+      "message": "",
+      "bytes": 40608,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_11.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_11.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838269990010.png"
     },
     {
       "country": "Argentina",
@@ -2512,35 +2512,7 @@
       "bytes": 41052,
       "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_12.png",
       "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837147390873.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 13,
-      "start": "2026-04-27",
-      "end": "2026-05-10",
-      "status": "ok",
-      "message": "",
-      "bytes": 41456,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_13.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837291166400.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "GFS_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 14,
-      "start": "2026-04-27",
-      "end": "2026-05-11",
-      "status": "ok",
-      "message": "",
-      "bytes": 41340,
-      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_14.png",
-      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837285927107.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838474101685.png"
     },
     {
       "country": "Argentina",
@@ -2554,21 +2526,21 @@
       "bytes": 38428,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_00.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837612538405.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838538101335.png"
     },
     {
       "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 2,
-      "start": "2026-04-29",
-      "end": "2026-04-29",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 13,
+      "start": "2026-04-27",
+      "end": "2026-05-10",
       "status": "ok",
       "message": "",
-      "bytes": 37417,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_02.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837902175318.png"
+      "bytes": 41456,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_13.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_13.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838489600848.png"
     },
     {
       "country": "Argentina",
@@ -2582,7 +2554,35 @@
       "bytes": 38180,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_01.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837299827311.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838182572719.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "GFS_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 14,
+      "start": "2026-04-27",
+      "end": "2026-05-11",
+      "status": "ok",
+      "message": "",
+      "bytes": 41340,
+      "current_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\_cumulative\\dia_14.png",
+      "history_path": "Argentina\\GFS_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_14.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837860051678.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 2,
+      "start": "2026-04-29",
+      "end": "2026-04-29",
+      "status": "ok",
+      "message": "",
+      "bytes": 37417,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_02.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_02.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837761266156.png"
     },
     {
       "country": "Argentina",
@@ -2596,35 +2596,7 @@
       "bytes": 35985,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_03.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837467641019.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 7,
-      "start": "2026-05-04",
-      "end": "2026-05-04",
-      "status": "ok",
-      "message": "",
-      "bytes": 40349,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_07.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837242441284.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 6,
-      "start": "2026-05-03",
-      "end": "2026-05-03",
-      "status": "ok",
-      "message": "",
-      "bytes": 38131,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_06.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837435063188.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837801917329.png"
     },
     {
       "country": "Argentina",
@@ -2638,21 +2610,21 @@
       "bytes": 37658,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_04.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837264447442.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837833235260.png"
     },
     {
       "country": "Argentina",
       "folder": "ECM_ENSEMBLE_Soy",
       "mode": "daily",
-      "day_index": 9,
-      "start": "2026-05-06",
-      "end": "2026-05-06",
+      "day_index": 7,
+      "start": "2026-05-04",
+      "end": "2026-05-04",
       "status": "ok",
       "message": "",
-      "bytes": 42632,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_09.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837728911419.png"
+      "bytes": 40349,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_07.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_07.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838032726811.png"
     },
     {
       "country": "Argentina",
@@ -2666,7 +2638,21 @@
       "bytes": 38503,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_05.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837702161722.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837941446113.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 6,
+      "start": "2026-05-03",
+      "end": "2026-05-03",
+      "status": "ok",
+      "message": "",
+      "bytes": 38131,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_06.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_06.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838228674842.png"
     },
     {
       "country": "Argentina",
@@ -2680,7 +2666,21 @@
       "bytes": 40661,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_08.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837451350879.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837692474644.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "daily",
+      "day_index": 9,
+      "start": "2026-05-06",
+      "end": "2026-05-06",
+      "status": "ok",
+      "message": "",
+      "bytes": 42632,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_09.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_09.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838125271653.png"
     },
     {
       "country": "Argentina",
@@ -2694,21 +2694,7 @@
       "bytes": 41119,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_10.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837879142996.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "daily",
-      "day_index": 12,
-      "start": "2026-05-09",
-      "end": "2026-05-09",
-      "status": "ok",
-      "message": "",
-      "bytes": 42922,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_12.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837499249683.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837962353267.png"
     },
     {
       "country": "Argentina",
@@ -2722,21 +2708,21 @@
       "bytes": 41615,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_11.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837430093079.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838304992154.png"
     },
     {
       "country": "Argentina",
       "folder": "ECM_ENSEMBLE_Soy",
       "mode": "daily",
-      "day_index": 14,
-      "start": "2026-05-11",
-      "end": "2026-05-11",
+      "day_index": 12,
+      "start": "2026-05-09",
+      "end": "2026-05-09",
       "status": "ok",
       "message": "",
-      "bytes": 43804,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_14.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837858383487.png"
+      "bytes": 42922,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_12.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_12.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838154397392.png"
     },
     {
       "country": "Argentina",
@@ -2750,35 +2736,21 @@
       "bytes": 45913,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_13.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837652037045.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838661012255.png"
     },
     {
       "country": "Argentina",
       "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 0,
-      "start": "2026-04-27",
-      "end": "2026-04-27",
+      "mode": "daily",
+      "day_index": 14,
+      "start": "2026-05-11",
+      "end": "2026-05-11",
       "status": "ok",
       "message": "",
-      "bytes": 38428,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_00.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837967725128.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 1,
-      "start": "2026-04-27",
-      "end": "2026-04-28",
-      "status": "ok",
-      "message": "",
-      "bytes": 39189,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_01.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837239982034.png"
+      "bytes": 43804,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\dia_14.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_daily\\dia_14.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837847662731.png"
     },
     {
       "country": "Argentina",
@@ -2792,7 +2764,35 @@
       "bytes": 39452,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_02.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837604654789.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838116191651.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 0,
+      "start": "2026-04-27",
+      "end": "2026-04-27",
+      "status": "ok",
+      "message": "",
+      "bytes": 38428,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_00.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_00.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838518332369.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 1,
+      "start": "2026-04-27",
+      "end": "2026-04-28",
+      "status": "ok",
+      "message": "",
+      "bytes": 39189,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_01.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_01.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837711468238.png"
     },
     {
       "country": "Argentina",
@@ -2806,7 +2806,7 @@
       "bytes": 39219,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_03.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837771320803.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838521310028.png"
     },
     {
       "country": "Argentina",
@@ -2820,21 +2820,7 @@
       "bytes": 42308,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_04.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838025925197.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Soy",
-      "mode": "cumulative",
-      "day_index": 6,
-      "start": "2026-04-27",
-      "end": "2026-05-03",
-      "status": "ok",
-      "message": "",
-      "bytes": 41741,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_06.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837284983214.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837997934010.png"
     },
     {
       "country": "Argentina",
@@ -2848,7 +2834,21 @@
       "bytes": 41522,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_05.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837332031242.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837954277496.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Soy",
+      "mode": "cumulative",
+      "day_index": 6,
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "status": "ok",
+      "message": "",
+      "bytes": 41741,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_06.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_06.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837723889130.png"
     },
     {
       "country": "Argentina",
@@ -2862,7 +2862,7 @@
       "bytes": 42860,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_07.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837691644078.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838725830569.png"
     },
     {
       "country": "Argentina",
@@ -2876,7 +2876,7 @@
       "bytes": 42668,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_08.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838042545723.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837949871857.png"
     },
     {
       "country": "Argentina",
@@ -2890,7 +2890,7 @@
       "bytes": 43162,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_09.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837708070897.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838251189659.png"
     },
     {
       "country": "Argentina",
@@ -2904,7 +2904,7 @@
       "bytes": 43420,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_10.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837448809901.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837722204008.png"
     },
     {
       "country": "Argentina",
@@ -2918,21 +2918,7 @@
       "bytes": 43644,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_11.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837610378511.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 0,
-      "start": "2026-04-27",
-      "end": "2026-04-27",
-      "status": "ok",
-      "message": "",
-      "bytes": 36707,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_00.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837671048290.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837841408436.png"
     },
     {
       "country": "Argentina",
@@ -2946,7 +2932,7 @@
       "bytes": 43886,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_12.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837240419339.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838106795993.png"
     },
     {
       "country": "Argentina",
@@ -2960,7 +2946,7 @@
       "bytes": 44016,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_13.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838048398215.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838464197625.png"
     },
     {
       "country": "Argentina",
@@ -2974,21 +2960,21 @@
       "bytes": 44324,
       "current_path": "Argentina\\ECM_ENSEMBLE_Soy\\_cumulative\\dia_14.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Soy\\history\\2026-04-27\\_cumulative\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837323534890.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838634766986.png"
     },
     {
       "country": "Argentina",
       "folder": "ECM_ENSEMBLE_Corn_Winter",
       "mode": "daily",
-      "day_index": 2,
-      "start": "2026-04-29",
-      "end": "2026-04-29",
+      "day_index": 0,
+      "start": "2026-04-27",
+      "end": "2026-04-27",
       "status": "ok",
       "message": "",
-      "bytes": 35595,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_02.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837536174029.png"
+      "bytes": 36707,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_00.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_00.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838161844782.png"
     },
     {
       "country": "Argentina",
@@ -3002,7 +2988,21 @@
       "bytes": 36741,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_01.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837815695474.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838501943875.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 2,
+      "start": "2026-04-29",
+      "end": "2026-04-29",
+      "status": "ok",
+      "message": "",
+      "bytes": 35595,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_02.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_02.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838637679277.png"
     },
     {
       "country": "Argentina",
@@ -3016,7 +3016,7 @@
       "bytes": 34404,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_03.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837671267490.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838071256902.png"
     },
     {
       "country": "Argentina",
@@ -3030,7 +3030,7 @@
       "bytes": 35698,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_04.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837182129741.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838357962371.png"
     },
     {
       "country": "Argentina",
@@ -3044,21 +3044,7 @@
       "bytes": 36921,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_05.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837472054371.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "daily",
-      "day_index": 6,
-      "start": "2026-05-03",
-      "end": "2026-05-03",
-      "status": "ok",
-      "message": "",
-      "bytes": 36464,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_06.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837503004483.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837678996542.png"
     },
     {
       "country": "Argentina",
@@ -3072,21 +3058,21 @@
       "bytes": 38570,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_07.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837800018386.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837727920644.png"
     },
     {
       "country": "Argentina",
       "folder": "ECM_ENSEMBLE_Corn_Winter",
       "mode": "daily",
-      "day_index": 9,
-      "start": "2026-05-06",
-      "end": "2026-05-06",
+      "day_index": 6,
+      "start": "2026-05-03",
+      "end": "2026-05-03",
       "status": "ok",
       "message": "",
-      "bytes": 40876,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_09.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837262741842.png"
+      "bytes": 36464,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_06.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_06.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837909872073.png"
     },
     {
       "country": "Argentina",
@@ -3100,7 +3086,7 @@
       "bytes": 38951,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_08.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837194163618.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838110315673.png"
     },
     {
       "country": "Argentina",
@@ -3114,21 +3100,21 @@
       "bytes": 39424,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_10.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837140049856.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838462522455.png"
     },
     {
       "country": "Argentina",
       "folder": "ECM_ENSEMBLE_Corn_Winter",
       "mode": "daily",
-      "day_index": 12,
-      "start": "2026-05-09",
-      "end": "2026-05-09",
+      "day_index": 9,
+      "start": "2026-05-06",
+      "end": "2026-05-06",
       "status": "ok",
       "message": "",
-      "bytes": 41511,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_12.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837718542025.png"
+      "bytes": 40876,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_09.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_09.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838607305787.png"
     },
     {
       "country": "Argentina",
@@ -3142,7 +3128,21 @@
       "bytes": 40107,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_11.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837495949492.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838580921809.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "daily",
+      "day_index": 12,
+      "start": "2026-05-09",
+      "end": "2026-05-09",
+      "status": "ok",
+      "message": "",
+      "bytes": 41511,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_12.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_12.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837728112728.png"
     },
     {
       "country": "Argentina",
@@ -3156,35 +3156,7 @@
       "bytes": 44391,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_13.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837518758990.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 1,
-      "start": "2026-04-27",
-      "end": "2026-04-28",
-      "status": "ok",
-      "message": "",
-      "bytes": 37603,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_01.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_01.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837760864515.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 0,
-      "start": "2026-04-27",
-      "end": "2026-04-27",
-      "status": "ok",
-      "message": "",
-      "bytes": 36707,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_00.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_00.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837827362425.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838256875159.png"
     },
     {
       "country": "Argentina",
@@ -3198,7 +3170,35 @@
       "bytes": 42010,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\dia_14.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_daily\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838055123936.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838293867789.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 0,
+      "start": "2026-04-27",
+      "end": "2026-04-27",
+      "status": "ok",
+      "message": "",
+      "bytes": 36707,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_00.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_00.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838498954434.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 1,
+      "start": "2026-04-27",
+      "end": "2026-04-28",
+      "status": "ok",
+      "message": "",
+      "bytes": 37603,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_01.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_01.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837652514456.png"
     },
     {
       "country": "Argentina",
@@ -3212,7 +3212,7 @@
       "bytes": 37916,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_02.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_02.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837171200711.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838457081598.png"
     },
     {
       "country": "Argentina",
@@ -3226,7 +3226,7 @@
       "bytes": 37788,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_03.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_03.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838083240777.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838261114913.png"
     },
     {
       "country": "Argentina",
@@ -3240,7 +3240,7 @@
       "bytes": 40484,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_04.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_04.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837807744605.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838151092685.png"
     },
     {
       "country": "Argentina",
@@ -3254,35 +3254,7 @@
       "bytes": 39984,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_05.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_05.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837882939371.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 7,
-      "start": "2026-04-27",
-      "end": "2026-05-04",
-      "status": "ok",
-      "message": "",
-      "bytes": 41375,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_07.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_07.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837661349582.png"
-    },
-    {
-      "country": "Argentina",
-      "folder": "ECM_ENSEMBLE_Corn_Winter",
-      "mode": "cumulative",
-      "day_index": 8,
-      "start": "2026-04-27",
-      "end": "2026-05-05",
-      "status": "ok",
-      "message": "",
-      "bytes": 41118,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_08.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_08.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837996235332.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838653577902.png"
     },
     {
       "country": "Argentina",
@@ -3296,21 +3268,35 @@
       "bytes": 40135,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_06.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_06.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837245542908.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838711706715.png"
     },
     {
       "country": "Argentina",
       "folder": "ECM_ENSEMBLE_Corn_Winter",
       "mode": "cumulative",
-      "day_index": 10,
+      "day_index": 7,
       "start": "2026-04-27",
-      "end": "2026-05-07",
+      "end": "2026-05-04",
       "status": "ok",
       "message": "",
-      "bytes": 41746,
-      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_10.png",
-      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_10.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837307307070.png"
+      "bytes": 41375,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_07.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_07.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838296184489.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 8,
+      "start": "2026-04-27",
+      "end": "2026-05-05",
+      "status": "ok",
+      "message": "",
+      "bytes": 41118,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_08.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_08.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838352140619.png"
     },
     {
       "country": "Argentina",
@@ -3324,7 +3310,21 @@
       "bytes": 41568,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_09.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_09.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837092371650.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838611952447.png"
+    },
+    {
+      "country": "Argentina",
+      "folder": "ECM_ENSEMBLE_Corn_Winter",
+      "mode": "cumulative",
+      "day_index": 10,
+      "start": "2026-04-27",
+      "end": "2026-05-07",
+      "status": "ok",
+      "message": "",
+      "bytes": 41746,
+      "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_10.png",
+      "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_10.png",
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838624222993.png"
     },
     {
       "country": "Argentina",
@@ -3338,7 +3338,7 @@
       "bytes": 41932,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_11.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_11.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837653287776.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837904238563.png"
     },
     {
       "country": "Argentina",
@@ -3352,7 +3352,7 @@
       "bytes": 42326,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_12.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_12.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837306392378.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838432219235.png"
     },
     {
       "country": "Argentina",
@@ -3366,7 +3366,7 @@
       "bytes": 42521,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_13.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_13.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-837518693089.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838140810354.png"
     },
     {
       "country": "Argentina",
@@ -3380,7 +3380,7 @@
       "bytes": 42695,
       "current_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\_cumulative\\dia_14.png",
       "history_path": "Argentina\\ECM_ENSEMBLE_Corn_Winter\\history\\2026-04-27\\_cumulative\\dia_14.png",
-      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838014329211.png"
+      "resource_url": "https://api.weatherdesk.xweather.com/outputs/maps/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/station/station-838224805504.png"
     }
   ]
 }

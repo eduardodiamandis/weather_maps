@@ -236,3 +236,37 @@
 2026-04-27 09:34:31,617 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 06 (2026-04-27 → 2026-05-03) 40135 bytes
 2026-04-27 09:34:31,691 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 10 (2026-04-27 → 2026-05-07) 41746 bytes
 2026-04-27 09:34:31,760 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 09 (2026-04-27 → 2026-05-06) 41568 bytes
+2026-04-27 09:34:32,183 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 11 (2026-04-27 → 2026-05-08) 41932 bytes
+2026-04-27 09:34:33,028 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 12 (2026-04-27 → 2026-05-09) 42326 bytes
+2026-04-27 09:34:33,190 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 13 (2026-04-27 → 2026-05-10) 42521 bytes
+2026-04-27 09:34:33,363 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 14 (2026-04-27 → 2026-05-11) 42695 bytes
+2026-04-27 09:34:33,366 [INFO] Resumo: 240/240 sucessos, 0 erros
+2026-04-27 09:34:33,382 [INFO] Manifest: C:\Users\server\OneDrive - CGB Enterprises, Inc\ZGC-PBI Research - Documents\Dataset Data Files\Weather_maps\manifest.json
+2026-04-27 09:34:33,382 [INFO] [GIT] Iniciando sincronização com GitHub...
+2026-04-27 09:34:58,819 [INFO] [GIT] Sucesso ✓
+2026-04-27 09:34:58,820 [INFO] ✓ Sincronizado com GitHub — Power BI atualiza no próximo refresh
+2026-04-27 09:42:43,166 [INFO] === Execução 2026-04-27 | modo=both | dias=15 | parâmetro=PRCP_DEP ===
+2026-04-27 09:42:43,181 [INFO] Baixando 240 mapas com 6 threads...
+2026-04-27 09:42:45,908 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 05 (2026-05-02 → 2026-05-02) 46750 bytes
+2026-04-27 09:42:45,921 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 04 (2026-05-01 → 2026-05-01) 45004 bytes
+2026-04-27 09:42:45,928 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 03 (2026-04-30 → 2026-04-30) 44362 bytes
+2026-04-27 09:42:45,986 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 01 (2026-04-28 → 2026-04-28) 45728 bytes
+2026-04-27 09:42:45,994 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 02 (2026-04-29 → 2026-04-29) 45538 bytes
+2026-04-27 09:42:46,069 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 00 (2026-04-27 → 2026-04-27) 45088 bytes
+2026-04-27 09:42:47,460 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 06 (2026-05-03 → 2026-05-03) 46036 bytes
+2026-04-27 09:42:47,538 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 10 (2026-05-07 → 2026-05-07) 53642 bytes
+2026-04-27 09:42:47,742 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 07 (2026-05-04 → 2026-05-04) 46830 bytes
+2026-04-27 09:42:47,857 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 08 (2026-05-05 → 2026-05-05) 49943 bytes
+2026-04-27 09:42:48,074 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 09 (2026-05-06 → 2026-05-06) 51655 bytes
+2026-04-27 09:42:48,158 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 11 (2026-05-08 → 2026-05-08) 53555 bytes
+2026-04-27 09:42:48,891 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 13 (2026-05-10 → 2026-05-10) 52534 bytes
+2026-04-27 09:42:49,398 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 12 (2026-05-09 → 2026-05-09) 53406 bytes
+2026-04-27 09:42:49,491 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 00 (2026-04-27 → 2026-04-27) 45088 bytes
+2026-04-27 09:42:49,497 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 01 (2026-04-27 → 2026-04-28) 46537 bytes
+2026-04-27 09:42:49,739 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 14 (2026-05-11 → 2026-05-11) 50977 bytes
+2026-04-27 09:42:49,864 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 02 (2026-04-27 → 2026-04-29) 47079 bytes
+2026-04-27 09:42:50,428 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 03 (2026-04-27 → 2026-04-30) 46819 bytes
+2026-04-27 09:42:51,383 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 05 (2026-04-27 → 2026-05-02) 48000 bytes
+2026-04-27 09:42:51,470 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 06 (2026-04-27 → 2026-05-03) 48407 bytes
+2026-04-27 09:42:51,492 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 04 (2026-04-27 → 2026-05-01) 48295 bytes
+2026-04-27 09:42:51,552 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 07 (2026-04-27 → 2026-05-04) 48859 bytes
