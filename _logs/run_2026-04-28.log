@@ -239,3 +239,9 @@
 2026-04-28 09:34:25,875 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 10 (2026-04-28 → 2026-05-08) 41391 bytes
 2026-04-28 09:34:26,881 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 12 (2026-04-28 → 2026-05-10) 42211 bytes
 2026-04-28 09:34:26,952 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 13 (2026-04-28 → 2026-05-11) 42387 bytes
+2026-04-28 09:34:27,226 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 14 (2026-04-28 → 2026-05-12) 42585 bytes
+2026-04-28 09:34:27,227 [INFO] Resumo: 240/240 sucessos, 0 erros
+2026-04-28 09:34:27,310 [INFO] Manifest: C:\Users\server\OneDrive - CGB Enterprises, Inc\ZGC-PBI Research - Documents\Dataset Data Files\Weather_maps\manifest.json
+2026-04-28 09:34:27,311 [INFO] [GIT] Iniciando sincronização com GitHub...
+2026-04-28 09:34:56,795 [INFO] [GIT] Sucesso ✓
+2026-04-28 09:34:56,796 [INFO] ✓ Sincronizado com GitHub — Power BI atualiza no próximo refresh
