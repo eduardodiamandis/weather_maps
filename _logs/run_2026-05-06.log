@@ -243,3 +243,5 @@
 2026-05-06 09:34:24,983 [INFO] Resumo: 240/240 sucessos, 0 erros
 2026-05-06 09:34:25,022 [INFO] Manifest: C:\Users\server\OneDrive - CGB Enterprises, Inc\ZGC-PBI Research - Documents\Dataset Data Files\Weather_maps\manifest.json
 2026-05-06 09:34:25,024 [INFO] [GIT] Iniciando sincronização com GitHub...
+2026-05-06 09:35:00,364 [INFO] [GIT] Sucesso ✓
+2026-05-06 09:35:00,368 [INFO] ✓ Sincronizado com GitHub — Power BI atualiza no próximo refresh
