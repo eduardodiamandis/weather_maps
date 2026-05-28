@@ -1,0 +1,6 @@
+2026-05-27 09:33:20,415 [INFO] === Execução 2026-05-27 | modo=both | dias=15 | parâmetro=PRCP_DEP ===
+2026-05-27 09:33:20,666 [INFO] Baixando 240 mapas com 6 threads...
+2026-05-27 09:33:24,395 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 02 (2026-05-29 → 2026-05-29) 42677 bytes
+2026-05-27 09:33:24,413 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 04 (2026-05-31 → 2026-05-31) 49591 bytes
+2026-05-27 09:33:24,421 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 00 (2026-05-27 → 2026-05-27) 35587 bytes
+2026-05-27 09:33:25,636 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 01 (2026-05-28 → 2026-05-28) 37509 bytes
