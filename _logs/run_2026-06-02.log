@@ -782,3 +782,556 @@
 2026-06-02 13:35:17,970 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 00 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-02
 2026-06-02 13:35:18,579 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 01 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-03
 2026-06-02 13:35:18,874 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 02 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-04
+2026-06-02 13:35:25,121 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 12 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-14&end=2026-06-14
+2026-06-02 13:35:26,927 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 14 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-16&end=2026-06-16
+2026-06-02 13:35:26,990 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 13 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-15&end=2026-06-15
+2026-06-02 13:35:27,133 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 00 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:35:27,700 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 01 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-03
+2026-06-02 13:35:28,112 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 02 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-04
+2026-06-02 13:35:34,153 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 12 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-14&end=2026-06-14
+2026-06-02 13:35:34,153 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 12 - falhou após 3 tentativas
+2026-06-02 13:35:35,412 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 03 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-05
+2026-06-02 13:35:35,972 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 14 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-16&end=2026-06-16
+2026-06-02 13:35:35,972 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 14 - falhou após 3 tentativas
+2026-06-02 13:35:36,055 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 13 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-15&end=2026-06-15
+2026-06-02 13:35:36,055 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 13 - falhou após 3 tentativas
+2026-06-02 13:35:36,163 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 00 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:35:36,163 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 00 - falhou após 3 tentativas
+2026-06-02 13:35:36,823 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 01 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-03
+2026-06-02 13:35:36,824 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 01 - falhou após 3 tentativas
+2026-06-02 13:35:37,336 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 02 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-04
+2026-06-02 13:35:37,337 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 02 - falhou após 3 tentativas
+2026-06-02 13:35:37,423 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 04 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-06
+2026-06-02 13:35:37,569 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 05 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-07
+2026-06-02 13:35:37,803 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 06 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-08
+2026-06-02 13:35:38,461 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 07 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-09
+2026-06-02 13:35:39,005 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 08 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-10
+2026-06-02 13:35:44,696 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 03 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-05
+2026-06-02 13:35:46,800 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 04 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-06
+2026-06-02 13:35:47,046 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 05 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-07
+2026-06-02 13:35:47,368 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 06 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-08
+2026-06-02 13:35:48,088 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 07 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-09
+2026-06-02 13:35:48,643 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 08 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-10
+2026-06-02 13:35:53,947 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 03 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-05
+2026-06-02 13:35:53,947 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 03 - falhou após 3 tentativas
+2026-06-02 13:35:55,645 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 09 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-11
+2026-06-02 13:35:56,395 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 04 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-06
+2026-06-02 13:35:56,395 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 04 - falhou após 3 tentativas
+2026-06-02 13:35:56,500 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 05 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-07
+2026-06-02 13:35:56,501 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 05 - falhou após 3 tentativas
+2026-06-02 13:35:56,893 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 06 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-08
+2026-06-02 13:35:56,893 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 06 - falhou após 3 tentativas
+2026-06-02 13:35:57,818 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 07 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-09
+2026-06-02 13:35:57,818 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 07 - falhou após 3 tentativas
+2026-06-02 13:35:58,342 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 10 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-12
+2026-06-02 13:35:58,437 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 08 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-10
+2026-06-02 13:35:58,438 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 08 - falhou após 3 tentativas
+2026-06-02 13:35:58,680 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 11 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-13
+2026-06-02 13:35:59,047 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 12 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-14
+2026-06-02 13:35:59,960 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 13 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-15
+2026-06-02 13:36:00,590 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 14 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-16
+2026-06-02 13:36:05,381 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 09 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-11
+2026-06-02 13:36:08,216 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 10 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-12
+2026-06-02 13:36:08,766 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 11 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-13
+2026-06-02 13:36:09,162 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 12 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-14
+2026-06-02 13:36:10,120 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 13 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-15
+2026-06-02 13:36:10,766 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 14 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-16
+2026-06-02 13:36:15,066 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 09 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-11
+2026-06-02 13:36:15,066 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 09 - falhou após 3 tentativas
+2026-06-02 13:36:18,650 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 10 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-12
+2026-06-02 13:36:18,650 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 10 - falhou após 3 tentativas
+2026-06-02 13:36:18,931 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 11 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-13
+2026-06-02 13:36:18,931 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 11 - falhou após 3 tentativas
+2026-06-02 13:36:19,420 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 12 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-14
+2026-06-02 13:36:19,420 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 12 - falhou após 3 tentativas
+2026-06-02 13:36:20,274 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 13 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-15
+2026-06-02 13:36:20,274 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 13 - falhou após 3 tentativas
+2026-06-02 13:36:20,933 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 14 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-16
+2026-06-02 13:36:20,933 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/cumulative dia 14 - falhou após 3 tentativas
+2026-06-02 13:36:20,936 [INFO] Resumo: 360/420 sucessos, 60 erros
+2026-06-02 13:36:21,067 [INFO] [CLEANUP] Removidas 80 pastas de histórico anteriores a 2026-05-03
+2026-06-02 13:36:21,079 [INFO] Manifest: C:\Users\server\OneDrive - CGB Enterprises, Inc\ZGC-PBI Research - Documents\Dataset Data Files\Weather_maps\manifest.json
+2026-06-02 13:36:21,080 [INFO] [GIT] Iniciando sincronização com GitHub...
+2026-06-02 13:36:41,389 [INFO] [GIT] Sucesso ✓
+2026-06-02 13:36:41,389 [INFO] ✓ Sincronizado com GitHub — Power BI atualiza no próximo refresh
+2026-06-02 13:44:51,498 [INFO] === Execução 2026-06-02 | modo=both | dias=15 | parâmetro=PRCP_DEP ===
+2026-06-02 13:44:51,502 [INFO] Baixando 480 mapas com 6 threads...
+2026-06-02 13:44:54,166 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 42541 bytes
+2026-06-02 13:44:54,218 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 42063 bytes
+2026-06-02 13:44:54,287 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 45044 bytes
+2026-06-02 13:44:54,293 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 43481 bytes
+2026-06-02 13:44:54,296 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 43035 bytes
+2026-06-02 13:44:54,309 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 42638 bytes
+2026-06-02 13:44:55,504 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 46988 bytes
+2026-06-02 13:44:55,587 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 51720 bytes
+2026-06-02 13:44:55,595 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 49804 bytes
+2026-06-02 13:44:55,620 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 51974 bytes
+2026-06-02 13:44:55,700 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 53174 bytes
+2026-06-02 13:44:55,894 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 49620 bytes
+2026-06-02 13:44:56,859 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 51549 bytes
+2026-06-02 13:44:56,921 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 42638 bytes
+2026-06-02 13:44:56,972 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 49933 bytes
+2026-06-02 13:44:56,980 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 49288 bytes
+2026-06-02 13:44:57,055 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 43686 bytes
+2026-06-02 13:44:57,387 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 44502 bytes
+2026-06-02 13:44:58,474 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 44473 bytes
+2026-06-02 13:44:58,492 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 45316 bytes
+2026-06-02 13:44:58,632 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 45912 bytes
+2026-06-02 13:44:58,818 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 48253 bytes
+2026-06-02 13:44:58,847 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 49655 bytes
+2026-06-02 13:44:59,204 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 51123 bytes
+2026-06-02 13:45:00,458 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 51968 bytes
+2026-06-02 13:45:00,571 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 51661 bytes
+2026-06-02 13:45:00,749 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 52400 bytes
+2026-06-02 13:45:01,016 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 52227 bytes
+2026-06-02 13:45:01,138 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 52073 bytes
+2026-06-02 13:45:01,523 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 52124 bytes
+2026-06-02 13:45:01,737 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 00 (2026-06-02 → 2026-06-02) 40929 bytes
+2026-06-02 13:45:01,840 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 01 (2026-06-03 → 2026-06-03) 41801 bytes
+2026-06-02 13:45:02,075 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 02 (2026-06-04 → 2026-06-04) 41080 bytes
+2026-06-02 13:45:02,269 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 03 (2026-06-05 → 2026-06-05) 40480 bytes
+2026-06-02 13:45:02,398 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 04 (2026-06-06 → 2026-06-06) 41389 bytes
+2026-06-02 13:45:02,788 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 05 (2026-06-07 → 2026-06-07) 43269 bytes
+2026-06-02 13:45:02,996 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 06 (2026-06-08 → 2026-06-08) 45756 bytes
+2026-06-02 13:45:03,152 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 07 (2026-06-09 → 2026-06-09) 48234 bytes
+2026-06-02 13:45:03,338 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 08 (2026-06-10 → 2026-06-10) 48120 bytes
+2026-06-02 13:45:03,676 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 09 (2026-06-11 → 2026-06-11) 50421 bytes
+2026-06-02 13:45:03,686 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 10 (2026-06-12 → 2026-06-12) 51681 bytes
+2026-06-02 13:45:04,122 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 11 (2026-06-13 → 2026-06-13) 50291 bytes
+2026-06-02 13:45:04,494 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 12 (2026-06-14 → 2026-06-14) 50109 bytes
+2026-06-02 13:45:04,500 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 13 (2026-06-15 → 2026-06-15) 48280 bytes
+2026-06-02 13:45:04,598 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 14 (2026-06-16 → 2026-06-16) 47585 bytes
+2026-06-02 13:45:05,106 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 00 (2026-06-02 → 2026-06-02) 40929 bytes
+2026-06-02 13:45:05,206 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 01 (2026-06-02 → 2026-06-03) 42070 bytes
+2026-06-02 13:45:05,501 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 02 (2026-06-02 → 2026-06-04) 43049 bytes
+2026-06-02 13:45:06,028 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 03 (2026-06-02 → 2026-06-05) 42992 bytes
+2026-06-02 13:45:06,113 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 04 (2026-06-02 → 2026-06-06) 43976 bytes
+2026-06-02 13:45:06,220 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 05 (2026-06-02 → 2026-06-07) 44572 bytes
+2026-06-02 13:45:06,877 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 06 (2026-06-02 → 2026-06-08) 46912 bytes
+2026-06-02 13:45:06,990 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 07 (2026-06-02 → 2026-06-09) 48477 bytes
+2026-06-02 13:45:07,448 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 08 (2026-06-02 → 2026-06-10) 49875 bytes
+2026-06-02 13:45:07,966 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 09 (2026-06-02 → 2026-06-11) 50625 bytes
+2026-06-02 13:45:08,160 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 10 (2026-06-02 → 2026-06-12) 50402 bytes
+2026-06-02 13:45:08,348 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 11 (2026-06-02 → 2026-06-13) 50841 bytes
+2026-06-02 13:45:09,104 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 12 (2026-06-02 → 2026-06-14) 50883 bytes
+2026-06-02 13:45:09,230 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 13 (2026-06-02 → 2026-06-15) 50607 bytes
+2026-06-02 13:45:09,329 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 47604 bytes
+2026-06-02 13:45:09,441 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 48193 bytes
+2026-06-02 13:45:09,612 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 46806 bytes
+2026-06-02 13:45:09,825 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 14 (2026-06-02 → 2026-06-16) 50757 bytes
+2026-06-02 13:45:11,937 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 44572 bytes
+2026-06-02 13:45:11,990 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 50421 bytes
+2026-06-02 13:45:12,064 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 49352 bytes
+2026-06-02 13:45:12,067 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 44737 bytes
+2026-06-02 13:45:12,136 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 47148 bytes
+2026-06-02 13:45:12,166 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 47403 bytes
+2026-06-02 13:45:13,415 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 49825 bytes
+2026-06-02 13:45:13,443 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 50328 bytes
+2026-06-02 13:45:13,522 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 52056 bytes
+2026-06-02 13:45:13,540 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 49901 bytes
+2026-06-02 13:45:13,550 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 50356 bytes
+2026-06-02 13:45:13,596 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 50455 bytes
+2026-06-02 13:45:14,844 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 48810 bytes
+2026-06-02 13:45:14,968 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 47604 bytes
+2026-06-02 13:45:15,028 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 47911 bytes
+2026-06-02 13:45:15,067 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 48189 bytes
+2026-06-02 13:45:15,137 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 48446 bytes
+2026-06-02 13:45:15,249 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 49965 bytes
+2026-06-02 13:45:16,549 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 51361 bytes
+2026-06-02 13:45:16,785 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 51417 bytes
+2026-06-02 13:45:16,956 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 52038 bytes
+2026-06-02 13:45:17,132 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 52662 bytes
+2026-06-02 13:45:17,366 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 52869 bytes
+2026-06-02 13:45:17,448 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 52627 bytes
+2026-06-02 13:45:18,442 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 00 (2026-06-02 → 2026-06-02) 45834 bytes
+2026-06-02 13:45:18,663 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 01 (2026-06-03 → 2026-06-03) 46535 bytes
+2026-06-02 13:45:18,762 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 51885 bytes
+2026-06-02 13:45:18,807 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 02 (2026-06-04 → 2026-06-04) 45239 bytes
+2026-06-02 13:45:19,044 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 50991 bytes
+2026-06-02 13:45:19,298 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 50893 bytes
+2026-06-02 13:45:19,824 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 03 (2026-06-05 → 2026-06-05) 43315 bytes
+2026-06-02 13:45:19,932 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 04 (2026-06-06 → 2026-06-06) 43325 bytes
+2026-06-02 13:45:20,042 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 05 (2026-06-07 → 2026-06-07) 45741 bytes
+2026-06-02 13:45:20,094 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 06 (2026-06-08 → 2026-06-08) 46097 bytes
+2026-06-02 13:45:20,345 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 07 (2026-06-09 → 2026-06-09) 47957 bytes
+2026-06-02 13:45:20,571 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 08 (2026-06-10 → 2026-06-10) 49195 bytes
+2026-06-02 13:45:21,441 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 11 (2026-06-13 → 2026-06-13) 48378 bytes
+2026-06-02 13:45:21,442 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 10 (2026-06-12 → 2026-06-12) 49128 bytes
+2026-06-02 13:45:21,448 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 12 (2026-06-14 → 2026-06-14) 48538 bytes
+2026-06-02 13:45:21,449 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 09 (2026-06-11 → 2026-06-11) 50628 bytes
+2026-06-02 13:45:21,738 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 13 (2026-06-15 → 2026-06-15) 48792 bytes
+2026-06-02 13:45:21,885 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 14 (2026-06-16 → 2026-06-16) 48621 bytes
+2026-06-02 13:45:22,848 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 02 (2026-06-02 → 2026-06-04) 46794 bytes
+2026-06-02 13:45:22,959 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 00 (2026-06-02 → 2026-06-02) 45834 bytes
+2026-06-02 13:45:22,966 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 01 (2026-06-02 → 2026-06-03) 47154 bytes
+2026-06-02 13:45:23,180 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 03 (2026-06-02 → 2026-06-05) 46380 bytes
+2026-06-02 13:45:23,296 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 04 (2026-06-02 → 2026-06-06) 47011 bytes
+2026-06-02 13:45:23,480 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 05 (2026-06-02 → 2026-06-07) 48640 bytes
+2026-06-02 13:45:24,664 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 06 (2026-06-02 → 2026-06-08) 50091 bytes
+2026-06-02 13:45:24,947 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 07 (2026-06-02 → 2026-06-09) 50248 bytes
+2026-06-02 13:45:24,958 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 08 (2026-06-02 → 2026-06-10) 51148 bytes
+2026-06-02 13:45:25,273 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 09 (2026-06-02 → 2026-06-11) 51433 bytes
+2026-06-02 13:45:25,378 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 10 (2026-06-02 → 2026-06-12) 51466 bytes
+2026-06-02 13:45:26,238 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 11 (2026-06-02 → 2026-06-13) 51307 bytes
+2026-06-02 13:45:26,370 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 34588 bytes
+2026-06-02 13:45:26,372 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 34694 bytes
+2026-06-02 13:45:26,847 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 12 (2026-06-02 → 2026-06-14) 50430 bytes
+2026-06-02 13:45:27,252 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 14 (2026-06-02 → 2026-06-16) 49570 bytes
+2026-06-02 13:45:27,297 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 13 (2026-06-02 → 2026-06-15) 49772 bytes
+2026-06-02 13:45:27,728 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 33217 bytes
+2026-06-02 13:45:27,730 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 33952 bytes
+2026-06-02 13:45:27,731 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 33329 bytes
+2026-06-02 13:45:27,796 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 35120 bytes
+2026-06-02 13:45:28,242 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 37900 bytes
+2026-06-02 13:45:28,292 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 42502 bytes
+2026-06-02 13:45:28,690 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 43114 bytes
+2026-06-02 13:45:28,725 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 42065 bytes
+2026-06-02 13:45:28,726 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 41077 bytes
+2026-06-02 13:45:28,756 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 43270 bytes
+2026-06-02 13:45:29,279 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 42194 bytes
+2026-06-02 13:45:29,280 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 41277 bytes
+2026-06-02 13:45:29,714 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 40094 bytes
+2026-06-02 13:45:29,762 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 34588 bytes
+2026-06-02 13:45:29,794 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 35041 bytes
+2026-06-02 13:45:29,852 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 36008 bytes
+2026-06-02 13:45:30,381 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 36861 bytes
+2026-06-02 13:45:30,438 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 35927 bytes
+2026-06-02 13:45:30,908 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 37089 bytes
+2026-06-02 13:45:31,097 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 38290 bytes
+2026-06-02 13:45:31,149 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 40074 bytes
+2026-06-02 13:45:31,322 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 42313 bytes
+2026-06-02 13:45:31,696 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 43100 bytes
+2026-06-02 13:45:31,844 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 42798 bytes
+2026-06-02 13:45:32,379 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 43370 bytes
+2026-06-02 13:45:32,598 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 43379 bytes
+2026-06-02 13:45:32,674 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 00 (2026-06-02 → 2026-06-02) 32520 bytes
+2026-06-02 13:45:32,722 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 43069 bytes
+2026-06-02 13:45:32,772 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 01 (2026-06-03 → 2026-06-03) 32594 bytes
+2026-06-02 13:45:32,907 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 43190 bytes
+2026-06-02 13:45:33,293 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 02 (2026-06-04 → 2026-06-04) 31593 bytes
+2026-06-02 13:45:33,527 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 03 (2026-06-05 → 2026-06-05) 31384 bytes
+2026-06-02 13:45:33,602 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 04 (2026-06-06 → 2026-06-06) 32093 bytes
+2026-06-02 13:45:33,767 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 05 (2026-06-07 → 2026-06-07) 33218 bytes
+2026-06-02 13:45:33,830 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 06 (2026-06-08 → 2026-06-08) 36467 bytes
+2026-06-02 13:45:33,845 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 07 (2026-06-09 → 2026-06-09) 40882 bytes
+2026-06-02 13:45:34,269 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 08 (2026-06-10 → 2026-06-10) 39145 bytes
+2026-06-02 13:45:34,476 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 09 (2026-06-11 → 2026-06-11) 40556 bytes
+2026-06-02 13:45:34,551 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 10 (2026-06-12 → 2026-06-12) 41598 bytes
+2026-06-02 13:45:34,749 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 11 (2026-06-13 → 2026-06-13) 41309 bytes
+2026-06-02 13:45:34,781 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 13 (2026-06-15 → 2026-06-15) 39302 bytes
+2026-06-02 13:45:34,786 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 12 (2026-06-14 → 2026-06-14) 40765 bytes
+2026-06-02 13:45:35,237 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 14 (2026-06-16 → 2026-06-16) 38154 bytes
+2026-06-02 13:45:35,393 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 00 (2026-06-02 → 2026-06-02) 32520 bytes
+2026-06-02 13:45:35,547 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 01 (2026-06-02 → 2026-06-03) 33014 bytes
+2026-06-02 13:45:35,771 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 02 (2026-06-02 → 2026-06-04) 34218 bytes
+2026-06-02 13:45:35,842 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 03 (2026-06-02 → 2026-06-05) 34070 bytes
+2026-06-02 13:45:35,939 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 04 (2026-06-02 → 2026-06-06) 35102 bytes
+2026-06-02 13:45:36,477 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 05 (2026-06-02 → 2026-06-07) 35599 bytes
+2026-06-02 13:45:36,612 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 06 (2026-06-02 → 2026-06-08) 36847 bytes
+2026-06-02 13:45:37,277 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 07 (2026-06-02 → 2026-06-09) 38789 bytes
+2026-06-02 13:45:37,280 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 08 (2026-06-02 → 2026-06-10) 41125 bytes
+2026-06-02 13:45:37,304 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 09 (2026-06-02 → 2026-06-11) 41960 bytes
+2026-06-02 13:45:37,358 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 10 (2026-06-02 → 2026-06-12) 41551 bytes
+2026-06-02 13:45:37,879 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 11 (2026-06-02 → 2026-06-13) 41946 bytes
+2026-06-02 13:45:38,195 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 12 (2026-06-02 → 2026-06-14) 42042 bytes
+2026-06-02 13:45:38,306 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 36936 bytes
+2026-06-02 13:45:38,327 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 36648 bytes
+2026-06-02 13:45:38,799 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 35548 bytes
+2026-06-02 13:45:38,854 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 13 (2026-06-02 → 2026-06-15) 41479 bytes
+2026-06-02 13:45:38,869 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 14 (2026-06-02 → 2026-06-16) 41623 bytes
+2026-06-02 13:45:39,144 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 34394 bytes
+2026-06-02 13:45:39,237 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 34658 bytes
+2026-06-02 13:45:39,256 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 36544 bytes
+2026-06-02 13:45:39,738 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 38779 bytes
+2026-06-02 13:45:39,813 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 42259 bytes
+2026-06-02 13:45:39,829 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 41975 bytes
+2026-06-02 13:45:40,080 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 42220 bytes
+2026-06-02 13:45:40,191 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 40075 bytes
+2026-06-02 13:45:40,240 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 41076 bytes
+2026-06-02 13:45:40,709 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 40018 bytes
+2026-06-02 13:45:40,780 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 41501 bytes
+2026-06-02 13:45:40,839 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 41209 bytes
+2026-06-02 13:45:41,095 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 36648 bytes
+2026-06-02 13:45:41,186 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 37562 bytes
+2026-06-02 13:45:41,357 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 36505 bytes
+2026-06-02 13:45:41,767 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 36253 bytes
+2026-06-02 13:45:42,009 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 36516 bytes
+2026-06-02 13:45:42,096 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 38420 bytes
+2026-06-02 13:45:42,447 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 40861 bytes
+2026-06-02 13:45:42,454 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 40049 bytes
+2026-06-02 13:45:42,637 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 42022 bytes
+2026-06-02 13:45:43,405 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 42358 bytes
+2026-06-02 13:45:43,491 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 42719 bytes
+2026-06-02 13:45:43,574 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 42872 bytes
+2026-06-02 13:45:44,006 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 42558 bytes
+2026-06-02 13:45:44,023 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 41711 bytes
+2026-06-02 13:45:44,183 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 41577 bytes
+2026-06-02 13:45:44,462 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 01 (2026-06-03 → 2026-06-03) 35291 bytes
+2026-06-02 13:45:44,495 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 00 (2026-06-02 → 2026-06-02) 34849 bytes
+2026-06-02 13:45:44,532 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 02 (2026-06-04 → 2026-06-04) 33949 bytes
+2026-06-02 13:45:44,944 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 04 (2026-06-06 → 2026-06-06) 32952 bytes
+2026-06-02 13:45:44,949 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 03 (2026-06-05 → 2026-06-05) 32712 bytes
+2026-06-02 13:45:45,112 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 05 (2026-06-07 → 2026-06-07) 34719 bytes
+2026-06-02 13:45:45,394 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 06 (2026-06-08 → 2026-06-08) 37273 bytes
+2026-06-02 13:45:45,462 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 07 (2026-06-09 → 2026-06-09) 40627 bytes
+2026-06-02 13:45:45,482 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 08 (2026-06-10 → 2026-06-10) 40677 bytes
+2026-06-02 13:45:45,917 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 09 (2026-06-11 → 2026-06-11) 40646 bytes
+2026-06-02 13:45:45,967 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 10 (2026-06-12 → 2026-06-12) 39471 bytes
+2026-06-02 13:45:46,052 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 11 (2026-06-13 → 2026-06-13) 38383 bytes
+2026-06-02 13:45:46,347 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 12 (2026-06-14 → 2026-06-14) 38415 bytes
+2026-06-02 13:45:46,428 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 14 (2026-06-16 → 2026-06-16) 39647 bytes
+2026-06-02 13:45:46,434 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 13 (2026-06-15 → 2026-06-15) 39648 bytes
+2026-06-02 13:45:46,933 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 00 (2026-06-02 → 2026-06-02) 34849 bytes
+2026-06-02 13:45:47,022 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 01 (2026-06-02 → 2026-06-03) 36056 bytes
+2026-06-02 13:45:47,089 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 02 (2026-06-02 → 2026-06-04) 35244 bytes
+2026-06-02 13:45:47,437 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 03 (2026-06-02 → 2026-06-05) 34790 bytes
+2026-06-02 13:45:47,527 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 04 (2026-06-02 → 2026-06-06) 35256 bytes
+2026-06-02 13:45:47,733 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 05 (2026-06-02 → 2026-06-07) 37203 bytes
+2026-06-02 13:45:48,152 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 06 (2026-06-02 → 2026-06-08) 38706 bytes
+2026-06-02 13:45:48,274 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 07 (2026-06-02 → 2026-06-09) 39522 bytes
+2026-06-02 13:45:48,416 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 08 (2026-06-02 → 2026-06-10) 40989 bytes
+2026-06-02 13:45:48,792 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 09 (2026-06-02 → 2026-06-11) 41126 bytes
+2026-06-02 13:45:48,920 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 10 (2026-06-02 → 2026-06-12) 41274 bytes
+2026-06-02 13:45:49,163 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 11 (2026-06-02 → 2026-06-13) 41517 bytes
+2026-06-02 13:45:49,693 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 12 (2026-06-02 → 2026-06-14) 40969 bytes
+2026-06-02 13:45:49,836 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 13 (2026-06-02 → 2026-06-15) 40184 bytes
+2026-06-02 13:45:49,999 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 14 (2026-06-02 → 2026-06-16) 39978 bytes
+2026-06-02 13:45:50,230 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 00 (2026-06-02 → 2026-06-02) 47799 bytes
+2026-06-02 13:45:50,365 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 01 (2026-06-03 → 2026-06-03) 47589 bytes
+2026-06-02 13:45:50,619 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 02 (2026-06-04 → 2026-06-04) 49635 bytes
+2026-06-02 13:45:51,127 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 03 (2026-06-05 → 2026-06-05) 52451 bytes
+2026-06-02 13:45:51,328 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 04 (2026-06-06 → 2026-06-06) 56276 bytes
+2026-06-02 13:45:51,438 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 05 (2026-06-07 → 2026-06-07) 57065 bytes
+2026-06-02 13:45:51,694 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 06 (2026-06-08 → 2026-06-08) 60252 bytes
+2026-06-02 13:45:51,846 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 07 (2026-06-09 → 2026-06-09) 61523 bytes
+2026-06-02 13:45:52,087 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 08 (2026-06-10 → 2026-06-10) 62068 bytes
+2026-06-02 13:45:52,648 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 09 (2026-06-11 → 2026-06-11) 61082 bytes
+2026-06-02 13:45:52,913 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 10 (2026-06-12 → 2026-06-12) 60016 bytes
+2026-06-02 13:45:52,914 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 11 (2026-06-13 → 2026-06-13) 57815 bytes
+2026-06-02 13:45:53,273 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 12 (2026-06-14 → 2026-06-14) 61054 bytes
+2026-06-02 13:45:53,322 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 13 (2026-06-15 → 2026-06-15) 61964 bytes
+2026-06-02 13:45:53,543 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 14 (2026-06-16 → 2026-06-16) 60672 bytes
+2026-06-02 13:45:54,063 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 00 (2026-06-02 → 2026-06-02) 47799 bytes
+2026-06-02 13:45:54,440 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 01 (2026-06-02 → 2026-06-03) 49720 bytes
+2026-06-02 13:45:54,598 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 02 (2026-06-02 → 2026-06-04) 50490 bytes
+2026-06-02 13:45:54,959 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 03 (2026-06-02 → 2026-06-05) 52729 bytes
+2026-06-02 13:45:55,127 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 04 (2026-06-02 → 2026-06-06) 54564 bytes
+2026-06-02 13:45:55,482 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 05 (2026-06-02 → 2026-06-07) 56373 bytes
+2026-06-02 13:45:56,147 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 06 (2026-06-02 → 2026-06-08) 57100 bytes
+2026-06-02 13:45:56,530 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 07 (2026-06-02 → 2026-06-09) 57893 bytes
+2026-06-02 13:45:56,962 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 08 (2026-06-02 → 2026-06-10) 58734 bytes
+2026-06-02 13:45:57,250 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 09 (2026-06-02 → 2026-06-11) 59376 bytes
+2026-06-02 13:45:57,553 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 10 (2026-06-02 → 2026-06-12) 59213 bytes
+2026-06-02 13:45:57,982 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 11 (2026-06-02 → 2026-06-13) 58183 bytes
+2026-06-02 13:45:58,671 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 47562 bytes
+2026-06-02 13:45:58,730 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 12 (2026-06-02 → 2026-06-14) 58212 bytes
+2026-06-02 13:45:59,020 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 47329 bytes
+2026-06-02 13:45:59,208 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 13 (2026-06-02 → 2026-06-15) 59100 bytes
+2026-06-02 13:45:59,430 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 49247 bytes
+2026-06-02 13:45:59,633 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 14 (2026-06-02 → 2026-06-16) 58922 bytes
+2026-06-02 13:46:00,127 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 52005 bytes
+2026-06-02 13:46:00,155 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 55974 bytes
+2026-06-02 13:46:00,493 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 56796 bytes
+2026-06-02 13:46:00,698 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 60146 bytes
+2026-06-02 13:46:00,898 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 61284 bytes
+2026-06-02 13:46:01,160 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 61702 bytes
+2026-06-02 13:46:01,590 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 60825 bytes
+2026-06-02 13:46:01,606 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 59742 bytes
+2026-06-02 13:46:01,930 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 57711 bytes
+2026-06-02 13:46:02,155 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 60953 bytes
+2026-06-02 13:46:02,459 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 61550 bytes
+2026-06-02 13:46:02,604 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 60309 bytes
+2026-06-02 13:46:02,998 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 47562 bytes
+2026-06-02 13:46:03,100 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 49567 bytes
+2026-06-02 13:46:03,541 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 50286 bytes
+2026-06-02 13:46:03,870 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 52538 bytes
+2026-06-02 13:46:04,251 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 54408 bytes
+2026-06-02 13:46:04,632 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 56194 bytes
+2026-06-02 13:46:04,981 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 56807 bytes
+2026-06-02 13:46:05,196 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 57606 bytes
+2026-06-02 13:46:05,757 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 58536 bytes
+2026-06-02 13:46:06,226 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 59058 bytes
+2026-06-02 13:46:06,715 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 58821 bytes
+2026-06-02 13:46:07,143 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 57909 bytes
+2026-06-02 13:46:07,556 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 57861 bytes
+2026-06-02 13:46:07,672 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 00 (2026-06-02 → 2026-06-02) 48657 bytes
+2026-06-02 13:46:07,804 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 58663 bytes
+2026-06-02 13:46:08,161 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 01 (2026-06-03 → 2026-06-03) 48699 bytes
+2026-06-02 13:46:08,458 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 58690 bytes
+2026-06-02 13:46:08,679 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 02 (2026-06-04 → 2026-06-04) 50645 bytes
+2026-06-02 13:46:09,053 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 03 (2026-06-05 → 2026-06-05) 53823 bytes
+2026-06-02 13:46:09,116 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 04 (2026-06-06 → 2026-06-06) 57501 bytes
+2026-06-02 13:46:09,274 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 05 (2026-06-07 → 2026-06-07) 58021 bytes
+2026-06-02 13:46:09,729 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 06 (2026-06-08 → 2026-06-08) 61306 bytes
+2026-06-02 13:46:09,998 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 07 (2026-06-09 → 2026-06-09) 62422 bytes
+2026-06-02 13:46:10,172 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 08 (2026-06-10 → 2026-06-10) 62810 bytes
+2026-06-02 13:46:10,533 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 09 (2026-06-11 → 2026-06-11) 62216 bytes
+2026-06-02 13:46:10,577 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 10 (2026-06-12 → 2026-06-12) 60940 bytes
+2026-06-02 13:46:10,754 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 11 (2026-06-13 → 2026-06-13) 58971 bytes
+2026-06-02 13:46:11,187 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 12 (2026-06-14 → 2026-06-14) 62465 bytes
+2026-06-02 13:46:11,529 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 13 (2026-06-15 → 2026-06-15) 62977 bytes
+2026-06-02 13:46:11,720 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/daily dia 14 (2026-06-16 → 2026-06-16) 61814 bytes
+2026-06-02 13:46:11,952 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 00 (2026-06-02 → 2026-06-02) 48657 bytes
+2026-06-02 13:46:12,086 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 01 (2026-06-02 → 2026-06-03) 50785 bytes
+2026-06-02 13:46:12,354 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 02 (2026-06-02 → 2026-06-04) 51599 bytes
+2026-06-02 13:46:12,974 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 03 (2026-06-02 → 2026-06-05) 53828 bytes
+2026-06-02 13:46:13,429 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 04 (2026-06-02 → 2026-06-06) 55658 bytes
+2026-06-02 13:46:14,021 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 05 (2026-06-02 → 2026-06-07) 57526 bytes
+2026-06-02 13:46:14,163 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 06 (2026-06-02 → 2026-06-08) 58165 bytes
+2026-06-02 13:46:14,297 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 07 (2026-06-02 → 2026-06-09) 58936 bytes
+2026-06-02 13:46:14,695 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 08 (2026-06-02 → 2026-06-10) 59720 bytes
+2026-06-02 13:46:15,261 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 09 (2026-06-02 → 2026-06-11) 60425 bytes
+2026-06-02 13:46:15,859 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 10 (2026-06-02 → 2026-06-12) 60171 bytes
+2026-06-02 13:46:16,576 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 11 (2026-06-02 → 2026-06-13) 59446 bytes
+2026-06-02 13:46:16,716 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 00 (2026-06-02 → 2026-06-02) 45581 bytes
+2026-06-02 13:46:16,863 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 12 (2026-06-02 → 2026-06-14) 59325 bytes
+2026-06-02 13:46:17,028 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 13 (2026-06-02 → 2026-06-15) 60025 bytes
+2026-06-02 13:46:17,321 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 01 (2026-06-03 → 2026-06-03) 45748 bytes
+2026-06-02 13:46:17,484 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Winter/cumulative dia 14 (2026-06-02 → 2026-06-16) 59992 bytes
+2026-06-02 13:46:18,210 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 03 (2026-06-05 → 2026-06-05) 50953 bytes
+2026-06-02 13:46:18,327 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 02 (2026-06-04 → 2026-06-04) 47805 bytes
+2026-06-02 13:46:18,348 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 04 (2026-06-06 → 2026-06-06) 54382 bytes
+2026-06-02 13:46:18,537 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 05 (2026-06-07 → 2026-06-07) 54833 bytes
+2026-06-02 13:46:18,802 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 06 (2026-06-08 → 2026-06-08) 58361 bytes
+2026-06-02 13:46:18,983 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 07 (2026-06-09 → 2026-06-09) 59856 bytes
+2026-06-02 13:46:19,765 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 08 (2026-06-10 → 2026-06-10) 60096 bytes
+2026-06-02 13:46:19,983 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 10 (2026-06-12 → 2026-06-12) 58079 bytes
+2026-06-02 13:46:20,056 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 09 (2026-06-11 → 2026-06-11) 59369 bytes
+2026-06-02 13:46:20,203 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 11 (2026-06-13 → 2026-06-13) 55686 bytes
+2026-06-02 13:46:20,449 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 12 (2026-06-14 → 2026-06-14) 59639 bytes
+2026-06-02 13:46:20,564 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 13 (2026-06-15 → 2026-06-15) 59865 bytes
+2026-06-02 13:46:21,255 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/daily dia 14 (2026-06-16 → 2026-06-16) 58869 bytes
+2026-06-02 13:46:21,510 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 00 (2026-06-02 → 2026-06-02) 45581 bytes
+2026-06-02 13:46:21,839 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 01 (2026-06-02 → 2026-06-03) 47749 bytes
+2026-06-02 13:46:21,995 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 02 (2026-06-02 → 2026-06-04) 48471 bytes
+2026-06-02 13:46:22,725 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 04 (2026-06-02 → 2026-06-06) 52667 bytes
+2026-06-02 13:46:22,733 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 03 (2026-06-02 → 2026-06-05) 50869 bytes
+2026-06-02 13:46:23,165 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 05 (2026-06-02 → 2026-06-07) 54272 bytes
+2026-06-02 13:46:23,498 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 06 (2026-06-02 → 2026-06-08) 55102 bytes
+2026-06-02 13:46:23,951 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 07 (2026-06-02 → 2026-06-09) 55745 bytes
+2026-06-02 13:46:24,304 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 08 (2026-06-02 → 2026-06-10) 56812 bytes
+2026-06-02 13:46:25,104 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 10 (2026-06-02 → 2026-06-12) 57156 bytes
+2026-06-02 13:46:25,199 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 09 (2026-06-02 → 2026-06-11) 57207 bytes
+2026-06-02 13:46:25,798 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 11 (2026-06-02 → 2026-06-13) 56269 bytes
+2026-06-02 13:46:26,255 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 12 (2026-06-02 → 2026-06-14) 56116 bytes
+2026-06-02 13:46:26,755 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 00 (2026-06-02 → 2026-06-02) 48593 bytes
+2026-06-02 13:46:27,015 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 13 (2026-06-02 → 2026-06-15) 56715 bytes
+2026-06-02 13:46:27,083 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 01 (2026-06-03 → 2026-06-03) 47067 bytes
+2026-06-02 13:46:27,150 [INFO] [OK] USA/GFS_ENSEMBLE_Wheat_Spring/cumulative dia 14 (2026-06-02 → 2026-06-16) 56939 bytes
+2026-06-02 13:46:27,388 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 02 (2026-06-04 → 2026-06-04) 49649 bytes
+2026-06-02 13:46:27,760 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 03 (2026-06-05 → 2026-06-05) 51425 bytes
+2026-06-02 13:46:28,213 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 04 (2026-06-06 → 2026-06-06) 55807 bytes
+2026-06-02 13:46:28,549 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 05 (2026-06-07 → 2026-06-07) 58267 bytes
+2026-06-02 13:46:28,658 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 06 (2026-06-08 → 2026-06-08) 58960 bytes
+2026-06-02 13:46:28,659 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 07 (2026-06-09 → 2026-06-09) 60918 bytes
+2026-06-02 13:46:28,851 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 08 (2026-06-10 → 2026-06-10) 61325 bytes
+2026-06-02 13:46:29,331 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 09 (2026-06-11 → 2026-06-11) 60817 bytes
+2026-06-02 13:46:29,675 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 10 (2026-06-12 → 2026-06-12) 59029 bytes
+2026-06-02 13:46:30,045 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 11 (2026-06-13 → 2026-06-13) 59074 bytes
+2026-06-02 13:46:30,126 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 12 (2026-06-14 → 2026-06-14) 58935 bytes
+2026-06-02 13:46:30,198 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 13 (2026-06-15 → 2026-06-15) 58583 bytes
+2026-06-02 13:46:30,443 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 14 (2026-06-16 → 2026-06-16) 57978 bytes
+2026-06-02 13:46:30,967 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 00 (2026-06-02 → 2026-06-02) 48593 bytes
+2026-06-02 13:46:31,250 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 01 (2026-06-02 → 2026-06-03) 49139 bytes
+2026-06-02 13:46:31,665 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 02 (2026-06-02 → 2026-06-04) 51264 bytes
+2026-06-02 13:46:31,909 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 03 (2026-06-02 → 2026-06-05) 52822 bytes
+2026-06-02 13:46:32,093 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 04 (2026-06-02 → 2026-06-06) 55752 bytes
+2026-06-02 13:46:32,327 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 05 (2026-06-02 → 2026-06-07) 56817 bytes
+2026-06-02 13:46:33,019 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 06 (2026-06-02 → 2026-06-08) 57692 bytes
+2026-06-02 13:46:33,370 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 07 (2026-06-02 → 2026-06-09) 57839 bytes
+2026-06-02 13:46:33,901 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 08 (2026-06-02 → 2026-06-10) 58287 bytes
+2026-06-02 13:46:34,170 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 09 (2026-06-02 → 2026-06-11) 59071 bytes
+2026-06-02 13:46:34,680 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 10 (2026-06-02 → 2026-06-12) 58963 bytes
+2026-06-02 13:46:35,177 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 11 (2026-06-02 → 2026-06-13) 59204 bytes
+2026-06-02 13:46:35,612 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 12 (2026-06-02 → 2026-06-14) 59472 bytes
+2026-06-02 13:46:35,614 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 48143 bytes
+2026-06-02 13:46:36,053 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 13 (2026-06-02 → 2026-06-15) 59115 bytes
+2026-06-02 13:46:36,145 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 46663 bytes
+2026-06-02 13:46:36,600 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 14 (2026-06-02 → 2026-06-16) 59492 bytes
+2026-06-02 13:46:36,629 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 49098 bytes
+2026-06-02 13:46:37,063 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 50986 bytes
+2026-06-02 13:46:37,090 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 55352 bytes
+2026-06-02 13:46:37,511 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 58056 bytes
+2026-06-02 13:46:37,665 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 58512 bytes
+2026-06-02 13:46:38,065 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 60688 bytes
+2026-06-02 13:46:38,133 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 60957 bytes
+2026-06-02 13:46:38,564 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 58776 bytes
+2026-06-02 13:46:38,609 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 60534 bytes
+2026-06-02 13:46:39,002 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 58708 bytes
+2026-06-02 13:46:39,159 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 58727 bytes
+2026-06-02 13:46:39,821 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 58246 bytes
+2026-06-02 13:46:39,855 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 57732 bytes
+2026-06-02 13:46:39,986 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 48143 bytes
+2026-06-02 13:46:40,121 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 48770 bytes
+2026-06-02 13:46:40,605 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 50816 bytes
+2026-06-02 13:46:40,848 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 52613 bytes
+2026-06-02 13:46:41,708 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 55516 bytes
+2026-06-02 13:46:41,934 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 56693 bytes
+2026-06-02 13:46:42,170 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 57397 bytes
+2026-06-02 13:46:42,376 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 57764 bytes
+2026-06-02 13:46:42,922 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 58113 bytes
+2026-06-02 13:46:43,203 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 58716 bytes
+2026-06-02 13:46:44,143 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 58771 bytes
+2026-06-02 13:46:44,494 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 58966 bytes
+2026-06-02 13:46:44,716 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 00 (2026-06-02 → 2026-06-02) 49857 bytes
+2026-06-02 13:46:44,825 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 59148 bytes
+2026-06-02 13:46:45,044 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 58773 bytes
+2026-06-02 13:46:45,588 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 01 (2026-06-03 → 2026-06-03) 48444 bytes
+2026-06-02 13:46:45,692 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 59042 bytes
+2026-06-02 13:46:45,931 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 02 (2026-06-04 → 2026-06-04) 50881 bytes
+2026-06-02 13:46:46,250 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 03 (2026-06-05 → 2026-06-05) 52413 bytes
+2026-06-02 13:46:46,415 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 04 (2026-06-06 → 2026-06-06) 56937 bytes
+2026-06-02 13:46:46,570 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 05 (2026-06-07 → 2026-06-07) 59324 bytes
+2026-06-02 13:46:47,094 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 06 (2026-06-08 → 2026-06-08) 60170 bytes
+2026-06-02 13:46:47,188 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 07 (2026-06-09 → 2026-06-09) 62159 bytes
+2026-06-02 13:46:47,423 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 08 (2026-06-10 → 2026-06-10) 62260 bytes
+2026-06-02 13:46:47,784 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 09 (2026-06-11 → 2026-06-11) 61977 bytes
+2026-06-02 13:46:47,924 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 10 (2026-06-12 → 2026-06-12) 60305 bytes
+2026-06-02 13:46:48,061 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 11 (2026-06-13 → 2026-06-13) 60191 bytes
+2026-06-02 13:46:48,562 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 12 (2026-06-14 → 2026-06-14) 60214 bytes
+2026-06-02 13:46:48,859 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 13 (2026-06-15 → 2026-06-15) 60027 bytes
+2026-06-02 13:46:49,087 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/daily dia 14 (2026-06-16 → 2026-06-16) 59208 bytes
+2026-06-02 13:46:49,271 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 00 (2026-06-02 → 2026-06-02) 49857 bytes
+2026-06-02 13:46:49,496 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 01 (2026-06-02 → 2026-06-03) 50279 bytes
+2026-06-02 13:46:49,736 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 02 (2026-06-02 → 2026-06-04) 52475 bytes
+2026-06-02 13:46:50,348 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 03 (2026-06-02 → 2026-06-05) 54066 bytes
+2026-06-02 13:46:50,714 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 04 (2026-06-02 → 2026-06-06) 57061 bytes
+2026-06-02 13:46:50,974 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 05 (2026-06-02 → 2026-06-07) 58066 bytes
+2026-06-02 13:46:51,362 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 06 (2026-06-02 → 2026-06-08) 59084 bytes
+2026-06-02 13:46:51,599 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 07 (2026-06-02 → 2026-06-09) 59339 bytes
+2026-06-02 13:46:51,982 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 08 (2026-06-02 → 2026-06-10) 59670 bytes
+2026-06-02 13:46:52,643 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 09 (2026-06-02 → 2026-06-11) 60006 bytes
+2026-06-02 13:46:53,143 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 10 (2026-06-02 → 2026-06-12) 60229 bytes
+2026-06-02 13:46:53,521 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 11 (2026-06-02 → 2026-06-13) 60164 bytes
+2026-06-02 13:46:53,949 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 12 (2026-06-02 → 2026-06-14) 60483 bytes
+2026-06-02 13:46:54,316 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 00 (2026-06-02 → 2026-06-02) 46480 bytes
+2026-06-02 13:46:54,428 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 13 (2026-06-02 → 2026-06-15) 60130 bytes
+2026-06-02 13:46:54,586 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 01 (2026-06-03 → 2026-06-03) 45043 bytes
+2026-06-02 13:46:54,665 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Winter/cumulative dia 14 (2026-06-02 → 2026-06-16) 60343 bytes
+2026-06-02 13:46:54,921 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 02 (2026-06-04 → 2026-06-04) 47684 bytes
+2026-06-02 13:46:55,414 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 03 (2026-06-05 → 2026-06-05) 49790 bytes
+2026-06-02 13:46:55,739 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 04 (2026-06-06 → 2026-06-06) 53448 bytes
+2026-06-02 13:46:55,899 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 05 (2026-06-07 → 2026-06-07) 56083 bytes
+2026-06-02 13:46:56,048 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 06 (2026-06-08 → 2026-06-08) 57039 bytes
+2026-06-02 13:46:56,163 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 07 (2026-06-09 → 2026-06-09) 59223 bytes
+2026-06-02 13:46:56,471 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 08 (2026-06-10 → 2026-06-10) 59326 bytes
+2026-06-02 13:46:56,849 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 09 (2026-06-11 → 2026-06-11) 58309 bytes
+2026-06-02 13:46:57,201 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 10 (2026-06-12 → 2026-06-12) 56804 bytes
+2026-06-02 13:46:57,457 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 11 (2026-06-13 → 2026-06-13) 56944 bytes
+2026-06-02 13:46:57,508 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 12 (2026-06-14 → 2026-06-14) 56968 bytes
+2026-06-02 13:46:57,646 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 13 (2026-06-15 → 2026-06-15) 56581 bytes
+2026-06-02 13:46:57,952 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/daily dia 14 (2026-06-16 → 2026-06-16) 56030 bytes
+2026-06-02 13:46:58,287 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 00 (2026-06-02 → 2026-06-02) 46480 bytes
+2026-06-02 13:46:58,737 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 01 (2026-06-02 → 2026-06-03) 47016 bytes
+2026-06-02 13:46:59,087 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 02 (2026-06-02 → 2026-06-04) 49166 bytes
+2026-06-02 13:46:59,220 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 03 (2026-06-02 → 2026-06-05) 51159 bytes
+2026-06-02 13:46:59,497 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 04 (2026-06-02 → 2026-06-06) 53816 bytes
+2026-06-02 13:47:00,000 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 05 (2026-06-02 → 2026-06-07) 54667 bytes
+2026-06-02 13:47:00,367 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 06 (2026-06-02 → 2026-06-08) 55313 bytes
+2026-06-02 13:47:01,042 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 07 (2026-06-02 → 2026-06-09) 55744 bytes
+2026-06-02 13:47:01,758 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 08 (2026-06-02 → 2026-06-10) 56113 bytes
+2026-06-02 13:47:01,987 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 09 (2026-06-02 → 2026-06-11) 56706 bytes
+2026-06-02 13:47:02,191 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 10 (2026-06-02 → 2026-06-12) 56514 bytes
+2026-06-02 13:47:02,964 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 11 (2026-06-02 → 2026-06-13) 56776 bytes
+2026-06-02 13:47:03,323 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 12 (2026-06-02 → 2026-06-14) 57044 bytes
+2026-06-02 13:47:03,854 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring/cumulative dia 13 (2026-06-02 → 2026-06-15) 57016 bytes
