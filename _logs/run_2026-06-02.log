@@ -244,3 +244,541 @@
 2026-06-02 09:34:30,586 [INFO] [CLEANUP] Removidas 80 pastas de histórico anteriores a 2026-05-03
 2026-06-02 09:34:30,596 [INFO] Manifest: C:\Users\server\OneDrive - CGB Enterprises, Inc\ZGC-PBI Research - Documents\Dataset Data Files\Weather_maps\manifest.json
 2026-06-02 09:34:30,597 [INFO] [GIT] Iniciando sincronização com GitHub...
+2026-06-02 09:34:56,609 [INFO] [GIT] Sucesso ✓
+2026-06-02 09:34:56,610 [INFO] ✓ Sincronizado com GitHub — Power BI atualiza no próximo refresh
+2026-06-02 13:30:45,655 [INFO] === Execução 2026-06-02 | modo=both | dias=15 | parâmetro=PRCP_DEP ===
+2026-06-02 13:30:45,666 [INFO] Baixando 420 mapas com 6 threads...
+2026-06-02 13:30:48,516 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 42541 bytes
+2026-06-02 13:30:48,634 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 45044 bytes
+2026-06-02 13:30:48,675 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 43481 bytes
+2026-06-02 13:30:48,789 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 42063 bytes
+2026-06-02 13:30:48,885 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 43035 bytes
+2026-06-02 13:30:48,907 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 42638 bytes
+2026-06-02 13:30:49,984 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 46988 bytes
+2026-06-02 13:30:49,998 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 49620 bytes
+2026-06-02 13:30:50,125 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 49804 bytes
+2026-06-02 13:30:50,226 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 51720 bytes
+2026-06-02 13:30:50,254 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 53174 bytes
+2026-06-02 13:30:50,288 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 51974 bytes
+2026-06-02 13:30:51,296 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 51549 bytes
+2026-06-02 13:30:51,347 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 49933 bytes
+2026-06-02 13:30:51,540 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 49288 bytes
+2026-06-02 13:30:51,722 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 42638 bytes
+2026-06-02 13:30:51,724 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 44502 bytes
+2026-06-02 13:30:51,903 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 43686 bytes
+2026-06-02 13:30:52,831 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 44473 bytes
+2026-06-02 13:30:53,063 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 45316 bytes
+2026-06-02 13:30:53,202 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 45912 bytes
+2026-06-02 13:30:53,509 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 48253 bytes
+2026-06-02 13:30:53,569 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 49655 bytes
+2026-06-02 13:30:53,789 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 51123 bytes
+2026-06-02 13:30:54,839 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 51968 bytes
+2026-06-02 13:30:55,157 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 51661 bytes
+2026-06-02 13:30:55,387 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 52400 bytes
+2026-06-02 13:30:55,774 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 52227 bytes
+2026-06-02 13:30:56,174 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 52073 bytes
+2026-06-02 13:30:56,453 [INFO] [OK] Brazil/GFS_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 52124 bytes
+2026-06-02 13:30:56,466 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 00 (2026-06-02 → 2026-06-02) 40929 bytes
+2026-06-02 13:30:56,685 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 02 (2026-06-04 → 2026-06-04) 41080 bytes
+2026-06-02 13:30:56,698 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 01 (2026-06-03 → 2026-06-03) 41801 bytes
+2026-06-02 13:30:57,120 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 03 (2026-06-05 → 2026-06-05) 40480 bytes
+2026-06-02 13:30:57,488 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 04 (2026-06-06 → 2026-06-06) 41389 bytes
+2026-06-02 13:30:57,771 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 05 (2026-06-07 → 2026-06-07) 43269 bytes
+2026-06-02 13:30:57,804 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 06 (2026-06-08 → 2026-06-08) 45756 bytes
+2026-06-02 13:30:58,003 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 08 (2026-06-10 → 2026-06-10) 48120 bytes
+2026-06-02 13:30:58,057 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 07 (2026-06-09 → 2026-06-09) 48234 bytes
+2026-06-02 13:30:58,424 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 09 (2026-06-11 → 2026-06-11) 50421 bytes
+2026-06-02 13:30:58,757 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 10 (2026-06-12 → 2026-06-12) 51681 bytes
+2026-06-02 13:30:59,062 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 12 (2026-06-14 → 2026-06-14) 50109 bytes
+2026-06-02 13:30:59,125 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 11 (2026-06-13 → 2026-06-13) 50291 bytes
+2026-06-02 13:30:59,382 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 14 (2026-06-16 → 2026-06-16) 47585 bytes
+2026-06-02 13:30:59,457 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/daily dia 13 (2026-06-15 → 2026-06-15) 48280 bytes
+2026-06-02 13:30:59,701 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 00 (2026-06-02 → 2026-06-02) 40929 bytes
+2026-06-02 13:31:00,126 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 01 (2026-06-02 → 2026-06-03) 42070 bytes
+2026-06-02 13:31:00,474 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 02 (2026-06-02 → 2026-06-04) 43049 bytes
+2026-06-02 13:31:00,649 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 03 (2026-06-02 → 2026-06-05) 42992 bytes
+2026-06-02 13:31:00,956 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 04 (2026-06-02 → 2026-06-06) 43976 bytes
+2026-06-02 13:31:01,146 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 05 (2026-06-02 → 2026-06-07) 44572 bytes
+2026-06-02 13:31:01,920 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 06 (2026-06-02 → 2026-06-08) 46912 bytes
+2026-06-02 13:31:01,924 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 07 (2026-06-02 → 2026-06-09) 48477 bytes
+2026-06-02 13:31:02,466 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 08 (2026-06-02 → 2026-06-10) 49875 bytes
+2026-06-02 13:31:02,648 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 09 (2026-06-02 → 2026-06-11) 50625 bytes
+2026-06-02 13:31:03,022 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 10 (2026-06-02 → 2026-06-12) 50402 bytes
+2026-06-02 13:31:03,305 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 11 (2026-06-02 → 2026-06-13) 50841 bytes
+2026-06-02 13:31:04,036 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 47604 bytes
+2026-06-02 13:31:04,181 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 13 (2026-06-02 → 2026-06-15) 50607 bytes
+2026-06-02 13:31:04,267 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 12 (2026-06-02 → 2026-06-14) 50883 bytes
+2026-06-02 13:31:04,303 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 48193 bytes
+2026-06-02 13:31:04,768 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 46806 bytes
+2026-06-02 13:31:04,874 [INFO] [OK] Brazil/GFS_ENSEMBLE_Corn_Winter/cumulative dia 14 (2026-06-02 → 2026-06-16) 50757 bytes
+2026-06-02 13:31:05,414 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 44737 bytes
+2026-06-02 13:31:05,483 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 44572 bytes
+2026-06-02 13:31:05,615 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 47148 bytes
+2026-06-02 13:31:05,775 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 47403 bytes
+2026-06-02 13:31:06,091 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 49352 bytes
+2026-06-02 13:31:06,227 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 50421 bytes
+2026-06-02 13:31:06,901 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 50455 bytes
+2026-06-02 13:31:06,919 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 52056 bytes
+2026-06-02 13:31:06,965 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 49825 bytes
+2026-06-02 13:31:07,147 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 49901 bytes
+2026-06-02 13:31:07,632 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 50328 bytes
+2026-06-02 13:31:07,752 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 50356 bytes
+2026-06-02 13:31:08,684 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 47604 bytes
+2026-06-02 13:31:08,858 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 48189 bytes
+2026-06-02 13:31:08,935 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 48810 bytes
+2026-06-02 13:31:09,146 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 47911 bytes
+2026-06-02 13:31:09,198 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 48446 bytes
+2026-06-02 13:31:09,432 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 49965 bytes
+2026-06-02 13:31:10,451 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 51361 bytes
+2026-06-02 13:31:10,876 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 52038 bytes
+2026-06-02 13:31:10,886 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 51417 bytes
+2026-06-02 13:31:11,212 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 52662 bytes
+2026-06-02 13:31:11,604 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 52869 bytes
+2026-06-02 13:31:17,069 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 00 (2026-06-02 → 2026-06-02) 45834 bytes
+2026-06-02 13:31:17,263 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 01 (2026-06-03 → 2026-06-03) 46535 bytes
+2026-06-02 13:31:17,968 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 52627 bytes
+2026-06-02 13:31:17,982 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 51885 bytes
+2026-06-02 13:31:18,336 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 50893 bytes
+2026-06-02 13:31:18,342 [INFO] [OK] Brazil/ECM_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 50991 bytes
+2026-06-02 13:31:18,430 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 02 (2026-06-04 → 2026-06-04) 45239 bytes
+2026-06-02 13:31:18,933 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 03 (2026-06-05 → 2026-06-05) 43315 bytes
+2026-06-02 13:31:19,367 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 04 (2026-06-06 → 2026-06-06) 43325 bytes
+2026-06-02 13:31:19,372 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 05 (2026-06-07 → 2026-06-07) 45741 bytes
+2026-06-02 13:31:19,936 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 07 (2026-06-09 → 2026-06-09) 47957 bytes
+2026-06-02 13:31:19,943 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 08 (2026-06-10 → 2026-06-10) 49195 bytes
+2026-06-02 13:31:20,041 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 06 (2026-06-08 → 2026-06-08) 46097 bytes
+2026-06-02 13:31:20,244 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 09 (2026-06-11 → 2026-06-11) 50628 bytes
+2026-06-02 13:31:20,672 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 10 (2026-06-12 → 2026-06-12) 49128 bytes
+2026-06-02 13:31:20,707 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 11 (2026-06-13 → 2026-06-13) 48378 bytes
+2026-06-02 13:31:21,259 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 13 (2026-06-15 → 2026-06-15) 48792 bytes
+2026-06-02 13:31:21,291 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 12 (2026-06-14 → 2026-06-14) 48538 bytes
+2026-06-02 13:31:21,369 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/daily dia 14 (2026-06-16 → 2026-06-16) 48621 bytes
+2026-06-02 13:31:21,598 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 00 (2026-06-02 → 2026-06-02) 45834 bytes
+2026-06-02 13:31:22,026 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 01 (2026-06-02 → 2026-06-03) 47154 bytes
+2026-06-02 13:31:22,217 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 02 (2026-06-02 → 2026-06-04) 46794 bytes
+2026-06-02 13:31:22,897 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 03 (2026-06-02 → 2026-06-05) 46380 bytes
+2026-06-02 13:31:22,905 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 04 (2026-06-02 → 2026-06-06) 47011 bytes
+2026-06-02 13:31:23,023 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 05 (2026-06-02 → 2026-06-07) 48640 bytes
+2026-06-02 13:31:23,316 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 06 (2026-06-02 → 2026-06-08) 50091 bytes
+2026-06-02 13:31:23,810 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 07 (2026-06-02 → 2026-06-09) 50248 bytes
+2026-06-02 13:31:24,132 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 08 (2026-06-02 → 2026-06-10) 51148 bytes
+2026-06-02 13:31:24,917 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 09 (2026-06-02 → 2026-06-11) 51433 bytes
+2026-06-02 13:31:24,951 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 10 (2026-06-02 → 2026-06-12) 51466 bytes
+2026-06-02 13:31:25,192 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 11 (2026-06-02 → 2026-06-13) 51307 bytes
+2026-06-02 13:31:25,655 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 12 (2026-06-02 → 2026-06-14) 50430 bytes
+2026-06-02 13:31:26,140 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 34694 bytes
+2026-06-02 13:31:26,198 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 34588 bytes
+2026-06-02 13:31:26,262 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 13 (2026-06-02 → 2026-06-15) 49772 bytes
+2026-06-02 13:31:26,344 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 33329 bytes
+2026-06-02 13:31:26,398 [INFO] [OK] Brazil/ECM_ENSEMBLE_Corn_Winter/cumulative dia 14 (2026-06-02 → 2026-06-16) 49570 bytes
+2026-06-02 13:31:26,640 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 33217 bytes
+2026-06-02 13:31:27,080 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 33952 bytes
+2026-06-02 13:31:27,145 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 35120 bytes
+2026-06-02 13:31:27,268 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 37900 bytes
+2026-06-02 13:31:27,397 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 42502 bytes
+2026-06-02 13:31:27,441 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 41077 bytes
+2026-06-02 13:31:27,762 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 42065 bytes
+2026-06-02 13:31:28,084 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 43114 bytes
+2026-06-02 13:31:28,229 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 43270 bytes
+2026-06-02 13:31:28,281 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 42194 bytes
+2026-06-02 13:31:28,388 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 41277 bytes
+2026-06-02 13:31:28,515 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 40094 bytes
+2026-06-02 13:31:28,683 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 34588 bytes
+2026-06-02 13:31:29,039 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 35041 bytes
+2026-06-02 13:31:29,301 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 36008 bytes
+2026-06-02 13:31:29,403 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 35927 bytes
+2026-06-02 13:31:29,560 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 36861 bytes
+2026-06-02 13:31:29,701 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 37089 bytes
+2026-06-02 13:31:29,889 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 38290 bytes
+2026-06-02 13:31:30,272 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 40074 bytes
+2026-06-02 13:31:30,583 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 42313 bytes
+2026-06-02 13:31:30,791 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 43100 bytes
+2026-06-02 13:31:31,012 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 42798 bytes
+2026-06-02 13:31:31,187 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 43370 bytes
+2026-06-02 13:31:31,380 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 43379 bytes
+2026-06-02 13:31:31,725 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 00 (2026-06-02 → 2026-06-02) 32520 bytes
+2026-06-02 13:31:31,943 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 43069 bytes
+2026-06-02 13:31:31,971 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 01 (2026-06-03 → 2026-06-03) 32594 bytes
+2026-06-02 13:31:32,134 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 02 (2026-06-04 → 2026-06-04) 31593 bytes
+2026-06-02 13:31:32,202 [INFO] [OK] Argentina/GFS_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 43190 bytes
+2026-06-02 13:31:32,361 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 03 (2026-06-05 → 2026-06-05) 31384 bytes
+2026-06-02 13:31:32,703 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 04 (2026-06-06 → 2026-06-06) 32093 bytes
+2026-06-02 13:31:32,935 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 05 (2026-06-07 → 2026-06-07) 33218 bytes
+2026-06-02 13:31:33,061 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 06 (2026-06-08 → 2026-06-08) 36467 bytes
+2026-06-02 13:31:33,111 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 07 (2026-06-09 → 2026-06-09) 40882 bytes
+2026-06-02 13:31:33,229 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 08 (2026-06-10 → 2026-06-10) 39145 bytes
+2026-06-02 13:31:33,351 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 09 (2026-06-11 → 2026-06-11) 40556 bytes
+2026-06-02 13:31:33,671 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 10 (2026-06-12 → 2026-06-12) 41598 bytes
+2026-06-02 13:31:33,911 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 11 (2026-06-13 → 2026-06-13) 41309 bytes
+2026-06-02 13:31:34,064 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 12 (2026-06-14 → 2026-06-14) 40765 bytes
+2026-06-02 13:31:34,141 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 13 (2026-06-15 → 2026-06-15) 39302 bytes
+2026-06-02 13:31:35,007 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/daily dia 14 (2026-06-16 → 2026-06-16) 38154 bytes
+2026-06-02 13:31:35,012 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 00 (2026-06-02 → 2026-06-02) 32520 bytes
+2026-06-02 13:31:35,013 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 01 (2026-06-02 → 2026-06-03) 33014 bytes
+2026-06-02 13:31:35,075 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 02 (2026-06-02 → 2026-06-04) 34218 bytes
+2026-06-02 13:31:35,156 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 03 (2026-06-02 → 2026-06-05) 34070 bytes
+2026-06-02 13:31:35,324 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 04 (2026-06-02 → 2026-06-06) 35102 bytes
+2026-06-02 13:31:36,374 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 07 (2026-06-02 → 2026-06-09) 38789 bytes
+2026-06-02 13:31:36,380 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 05 (2026-06-02 → 2026-06-07) 35599 bytes
+2026-06-02 13:31:36,436 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 06 (2026-06-02 → 2026-06-08) 36847 bytes
+2026-06-02 13:31:36,466 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 08 (2026-06-02 → 2026-06-10) 41125 bytes
+2026-06-02 13:31:36,672 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 09 (2026-06-02 → 2026-06-11) 41960 bytes
+2026-06-02 13:31:36,792 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 10 (2026-06-02 → 2026-06-12) 41551 bytes
+2026-06-02 13:31:37,660 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 36648 bytes
+2026-06-02 13:31:37,841 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 36936 bytes
+2026-06-02 13:31:38,025 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 11 (2026-06-02 → 2026-06-13) 41946 bytes
+2026-06-02 13:31:38,067 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 12 (2026-06-02 → 2026-06-14) 42042 bytes
+2026-06-02 13:31:38,177 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 13 (2026-06-02 → 2026-06-15) 41479 bytes
+2026-06-02 13:31:38,237 [INFO] [OK] Argentina/GFS_ENSEMBLE_Corn_Winter/cumulative dia 14 (2026-06-02 → 2026-06-16) 41623 bytes
+2026-06-02 13:31:38,593 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 35548 bytes
+2026-06-02 13:31:38,855 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 34394 bytes
+2026-06-02 13:31:39,034 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 34658 bytes
+2026-06-02 13:31:39,116 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 36544 bytes
+2026-06-02 13:31:39,172 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 38779 bytes
+2026-06-02 13:31:39,259 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 42259 bytes
+2026-06-02 13:31:39,608 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 41975 bytes
+2026-06-02 13:31:39,848 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 42220 bytes
+2026-06-02 13:31:40,139 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 41076 bytes
+2026-06-02 13:31:40,150 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 40018 bytes
+2026-06-02 13:31:40,207 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 40075 bytes
+2026-06-02 13:31:40,259 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 41209 bytes
+2026-06-02 13:31:40,703 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 41501 bytes
+2026-06-02 13:31:40,914 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 36648 bytes
+2026-06-02 13:31:41,161 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 37562 bytes
+2026-06-02 13:31:41,205 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 36505 bytes
+2026-06-02 13:31:41,307 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 36253 bytes
+2026-06-02 13:31:41,438 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 36516 bytes
+2026-06-02 13:31:41,897 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 38420 bytes
+2026-06-02 13:31:42,179 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 40049 bytes
+2026-06-02 13:31:42,606 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 40861 bytes
+2026-06-02 13:31:42,728 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 42022 bytes
+2026-06-02 13:31:42,822 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 42358 bytes
+2026-06-02 13:31:42,969 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 42719 bytes
+2026-06-02 13:31:43,403 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 42872 bytes
+2026-06-02 13:31:43,677 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 42558 bytes
+2026-06-02 13:31:43,786 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 00 (2026-06-02 → 2026-06-02) 34849 bytes
+2026-06-02 13:31:44,042 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 01 (2026-06-03 → 2026-06-03) 35291 bytes
+2026-06-02 13:31:44,250 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 41711 bytes
+2026-06-02 13:31:44,338 [INFO] [OK] Argentina/ECM_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 41577 bytes
+2026-06-02 13:31:44,361 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 02 (2026-06-04 → 2026-06-04) 33949 bytes
+2026-06-02 13:31:44,756 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 04 (2026-06-06 → 2026-06-06) 32952 bytes
+2026-06-02 13:31:44,763 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 03 (2026-06-05 → 2026-06-05) 32712 bytes
+2026-06-02 13:31:45,365 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 08 (2026-06-10 → 2026-06-10) 40677 bytes
+2026-06-02 13:31:45,368 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 05 (2026-06-07 → 2026-06-07) 34719 bytes
+2026-06-02 13:31:45,369 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 06 (2026-06-08 → 2026-06-08) 37273 bytes
+2026-06-02 13:31:45,379 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 07 (2026-06-09 → 2026-06-09) 40627 bytes
+2026-06-02 13:31:45,801 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 09 (2026-06-11 → 2026-06-11) 40646 bytes
+2026-06-02 13:31:45,838 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 10 (2026-06-12 → 2026-06-12) 39471 bytes
+2026-06-02 13:31:46,336 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 12 (2026-06-14 → 2026-06-14) 38415 bytes
+2026-06-02 13:31:46,344 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 11 (2026-06-13 → 2026-06-13) 38383 bytes
+2026-06-02 13:31:46,365 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 13 (2026-06-15 → 2026-06-15) 39648 bytes
+2026-06-02 13:31:46,394 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/daily dia 14 (2026-06-16 → 2026-06-16) 39647 bytes
+2026-06-02 13:31:46,767 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 00 (2026-06-02 → 2026-06-02) 34849 bytes
+2026-06-02 13:31:46,821 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 01 (2026-06-02 → 2026-06-03) 36056 bytes
+2026-06-02 13:31:47,447 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 02 (2026-06-02 → 2026-06-04) 35244 bytes
+2026-06-02 13:31:47,553 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 03 (2026-06-02 → 2026-06-05) 34790 bytes
+2026-06-02 13:31:47,586 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 05 (2026-06-02 → 2026-06-07) 37203 bytes
+2026-06-02 13:31:47,662 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 04 (2026-06-02 → 2026-06-06) 35256 bytes
+2026-06-02 13:31:48,001 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 06 (2026-06-02 → 2026-06-08) 38706 bytes
+2026-06-02 13:31:48,093 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 07 (2026-06-02 → 2026-06-09) 39522 bytes
+2026-06-02 13:31:48,844 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 08 (2026-06-02 → 2026-06-10) 40989 bytes
+2026-06-02 13:31:49,006 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 09 (2026-06-02 → 2026-06-11) 41126 bytes
+2026-06-02 13:31:49,253 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 11 (2026-06-02 → 2026-06-13) 41517 bytes
+2026-06-02 13:31:49,294 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 10 (2026-06-02 → 2026-06-12) 41274 bytes
+2026-06-02 13:31:49,549 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 12 (2026-06-02 → 2026-06-14) 40969 bytes
+2026-06-02 13:31:49,798 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 13 (2026-06-02 → 2026-06-15) 40184 bytes
+2026-06-02 13:31:50,458 [INFO] [OK] Argentina/ECM_ENSEMBLE_Corn_Winter/cumulative dia 14 (2026-06-02 → 2026-06-16) 39978 bytes
+2026-06-02 13:31:50,497 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 00 (2026-06-02 → 2026-06-02) 47799 bytes
+2026-06-02 13:31:50,723 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 02 (2026-06-04 → 2026-06-04) 49635 bytes
+2026-06-02 13:31:50,745 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 01 (2026-06-03 → 2026-06-03) 47589 bytes
+2026-06-02 13:31:51,146 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 03 (2026-06-05 → 2026-06-05) 52451 bytes
+2026-06-02 13:31:51,414 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 04 (2026-06-06 → 2026-06-06) 56276 bytes
+2026-06-02 13:31:51,986 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 06 (2026-06-08 → 2026-06-08) 60252 bytes
+2026-06-02 13:31:51,994 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 05 (2026-06-07 → 2026-06-07) 57065 bytes
+2026-06-02 13:31:52,246 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 08 (2026-06-10 → 2026-06-10) 62068 bytes
+2026-06-02 13:31:52,254 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 07 (2026-06-09 → 2026-06-09) 61523 bytes
+2026-06-02 13:31:52,687 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 09 (2026-06-11 → 2026-06-11) 61082 bytes
+2026-06-02 13:31:52,964 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 10 (2026-06-12 → 2026-06-12) 60016 bytes
+2026-06-02 13:31:53,562 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 12 (2026-06-14 → 2026-06-14) 61054 bytes
+2026-06-02 13:31:53,638 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 11 (2026-06-13 → 2026-06-13) 57815 bytes
+2026-06-02 13:31:53,760 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 14 (2026-06-16 → 2026-06-16) 60672 bytes
+2026-06-02 13:31:53,969 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/daily dia 13 (2026-06-15 → 2026-06-15) 61964 bytes
+2026-06-02 13:31:54,167 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 00 (2026-06-02 → 2026-06-02) 47799 bytes
+2026-06-02 13:31:54,530 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 01 (2026-06-02 → 2026-06-03) 49720 bytes
+2026-06-02 13:31:55,351 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 03 (2026-06-02 → 2026-06-05) 52729 bytes
+2026-06-02 13:31:55,366 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 02 (2026-06-02 → 2026-06-04) 50490 bytes
+2026-06-02 13:31:55,748 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 04 (2026-06-02 → 2026-06-06) 54564 bytes
+2026-06-02 13:31:56,018 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 05 (2026-06-02 → 2026-06-07) 56373 bytes
+2026-06-02 13:31:56,314 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 06 (2026-06-02 → 2026-06-08) 57100 bytes
+2026-06-02 13:31:56,724 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 07 (2026-06-02 → 2026-06-09) 57893 bytes
+2026-06-02 13:31:57,614 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 08 (2026-06-02 → 2026-06-10) 58734 bytes
+2026-06-02 13:31:57,848 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 09 (2026-06-02 → 2026-06-11) 59376 bytes
+2026-06-02 13:31:58,780 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 10 (2026-06-02 → 2026-06-12) 59213 bytes
+2026-06-02 13:31:58,781 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 11 (2026-06-02 → 2026-06-13) 58183 bytes
+2026-06-02 13:31:58,971 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 12 (2026-06-02 → 2026-06-14) 58212 bytes
+2026-06-02 13:31:59,345 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 47562 bytes
+2026-06-02 13:31:59,458 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 13 (2026-06-02 → 2026-06-15) 59100 bytes
+2026-06-02 13:32:00,406 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 47329 bytes
+2026-06-02 13:32:00,522 [INFO] [OK] USA/GFS_ENSEMBLE_Corn/cumulative dia 14 (2026-06-02 → 2026-06-16) 58922 bytes
+2026-06-02 13:32:00,572 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 52005 bytes
+2026-06-02 13:32:00,578 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 49247 bytes
+2026-06-02 13:32:01,000 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 55974 bytes
+2026-06-02 13:32:01,071 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 56796 bytes
+2026-06-02 13:32:02,018 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 60146 bytes
+2026-06-02 13:32:02,325 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 61702 bytes
+2026-06-02 13:32:02,597 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 61284 bytes
+2026-06-02 13:32:02,676 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 60825 bytes
+2026-06-02 13:32:02,707 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 59742 bytes
+2026-06-02 13:32:02,752 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 57711 bytes
+2026-06-02 13:32:03,620 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 60953 bytes
+2026-06-02 13:32:03,856 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 61550 bytes
+2026-06-02 13:32:04,137 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 60309 bytes
+2026-06-02 13:32:04,360 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 47562 bytes
+2026-06-02 13:32:04,365 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 49567 bytes
+2026-06-02 13:32:04,492 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 50286 bytes
+2026-06-02 13:32:05,339 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 52538 bytes
+2026-06-02 13:32:05,972 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 54408 bytes
+2026-06-02 13:32:06,579 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 56194 bytes
+2026-06-02 13:32:06,744 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 56807 bytes
+2026-06-02 13:32:06,913 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 57606 bytes
+2026-06-02 13:32:07,215 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 58536 bytes
+2026-06-02 13:32:07,894 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 59058 bytes
+2026-06-02 13:32:08,533 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 58821 bytes
+2026-06-02 13:32:08,980 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 00 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:32:09,149 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 57909 bytes
+2026-06-02 13:32:09,491 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 57861 bytes
+2026-06-02 13:32:09,579 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 01 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-03&end=2026-06-03
+2026-06-02 13:32:09,692 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 58663 bytes
+2026-06-02 13:32:10,087 [INFO] [OK] USA/GFS_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 58690 bytes
+2026-06-02 13:32:10,184 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 02 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-04&end=2026-06-04
+2026-06-02 13:32:10,543 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 03 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-05&end=2026-06-05
+2026-06-02 13:32:10,741 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 04 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-06&end=2026-06-06
+2026-06-02 13:32:11,134 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 05 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-07&end=2026-06-07
+2026-06-02 13:32:18,039 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 00 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:32:18,628 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 01 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-03&end=2026-06-03
+2026-06-02 13:32:19,251 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 02 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-04&end=2026-06-04
+2026-06-02 13:32:19,778 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 03 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-05&end=2026-06-05
+2026-06-02 13:32:19,952 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 04 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-06&end=2026-06-06
+2026-06-02 13:32:20,488 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 05 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-07&end=2026-06-07
+2026-06-02 13:32:27,073 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 00 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:32:27,073 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 00 - falhou após 3 tentativas
+2026-06-02 13:32:27,657 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 01 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-03&end=2026-06-03
+2026-06-02 13:32:27,657 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 01 - falhou após 3 tentativas
+2026-06-02 13:32:28,123 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 06 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-08&end=2026-06-08
+2026-06-02 13:32:28,341 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 02 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-04&end=2026-06-04
+2026-06-02 13:32:28,341 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 02 - falhou após 3 tentativas
+2026-06-02 13:32:28,739 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 07 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-09&end=2026-06-09
+2026-06-02 13:32:28,835 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 03 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-05&end=2026-06-05
+2026-06-02 13:32:28,835 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 03 - falhou após 3 tentativas
+2026-06-02 13:32:29,035 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 04 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-06&end=2026-06-06
+2026-06-02 13:32:29,035 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 04 - falhou após 3 tentativas
+2026-06-02 13:32:29,415 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 08 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-10&end=2026-06-10
+2026-06-02 13:32:29,612 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 05 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-07&end=2026-06-07
+2026-06-02 13:32:29,612 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 05 - falhou após 3 tentativas
+2026-06-02 13:32:29,931 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 09 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-11&end=2026-06-11
+2026-06-02 13:32:30,091 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 10 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-12&end=2026-06-12
+2026-06-02 13:32:30,669 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 11 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-13&end=2026-06-13
+2026-06-02 13:32:37,166 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 06 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-08&end=2026-06-08
+2026-06-02 13:32:37,786 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 07 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-09&end=2026-06-09
+2026-06-02 13:32:38,466 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 08 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-10&end=2026-06-10
+2026-06-02 13:32:38,996 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 09 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-11&end=2026-06-11
+2026-06-02 13:32:39,149 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 10 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-12&end=2026-06-12
+2026-06-02 13:32:39,767 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 11 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-13&end=2026-06-13
+2026-06-02 13:32:46,227 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 06 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-08&end=2026-06-08
+2026-06-02 13:32:46,227 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 06 - falhou após 3 tentativas
+2026-06-02 13:32:46,837 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 07 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-09&end=2026-06-09
+2026-06-02 13:32:46,838 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 07 - falhou após 3 tentativas
+2026-06-02 13:32:47,287 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 12 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-14&end=2026-06-14
+2026-06-02 13:32:47,564 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 08 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-10&end=2026-06-10
+2026-06-02 13:32:47,564 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 08 - falhou após 3 tentativas
+2026-06-02 13:32:47,956 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 13 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-15&end=2026-06-15
+2026-06-02 13:32:48,113 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 09 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-11&end=2026-06-11
+2026-06-02 13:32:48,113 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 09 - falhou após 3 tentativas
+2026-06-02 13:32:48,226 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 10 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-12&end=2026-06-12
+2026-06-02 13:32:48,226 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 10 - falhou após 3 tentativas
+2026-06-02 13:32:48,627 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 14 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-16&end=2026-06-16
+2026-06-02 13:32:48,839 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 11 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-13&end=2026-06-13
+2026-06-02 13:32:48,839 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 11 - falhou após 3 tentativas
+2026-06-02 13:32:49,211 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 00 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:32:49,395 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 01 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-03
+2026-06-02 13:32:50,063 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 02 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-04
+2026-06-02 13:32:56,334 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 12 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-14&end=2026-06-14
+2026-06-02 13:32:57,012 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 13 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-15&end=2026-06-15
+2026-06-02 13:32:57,687 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 14 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-16&end=2026-06-16
+2026-06-02 13:32:58,606 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 00 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:32:58,718 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 01 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-03
+2026-06-02 13:32:59,262 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 02 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-04
+2026-06-02 13:33:05,395 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 12 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-14&end=2026-06-14
+2026-06-02 13:33:05,396 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 12 - falhou após 3 tentativas
+2026-06-02 13:33:06,102 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 13 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-15&end=2026-06-15
+2026-06-02 13:33:06,102 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 13 - falhou após 3 tentativas
+2026-06-02 13:33:06,736 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 03 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-05
+2026-06-02 13:33:06,790 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/daily dia 14 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-16&end=2026-06-16
+2026-06-02 13:33:06,790 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/daily dia 14 - falhou após 3 tentativas
+2026-06-02 13:33:07,532 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 04 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-06
+2026-06-02 13:33:07,773 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 00 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:33:07,773 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 00 - falhou após 3 tentativas
+2026-06-02 13:33:07,955 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 01 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-03
+2026-06-02 13:33:07,955 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 01 - falhou após 3 tentativas
+2026-06-02 13:33:08,292 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 05 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-07
+2026-06-02 13:33:08,513 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 02 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-04
+2026-06-02 13:33:08,513 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 02 - falhou após 3 tentativas
+2026-06-02 13:33:09,406 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 06 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-08
+2026-06-02 13:33:09,661 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 07 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-09
+2026-06-02 13:33:10,288 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 08 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-10
+2026-06-02 13:33:16,007 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 03 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-05
+2026-06-02 13:33:16,880 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 04 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-06
+2026-06-02 13:33:17,717 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 05 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-07
+2026-06-02 13:33:19,067 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 06 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-08
+2026-06-02 13:33:19,367 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 07 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-09
+2026-06-02 13:33:20,009 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 08 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-10
+2026-06-02 13:33:25,296 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 03 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-05
+2026-06-02 13:33:25,297 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 03 - falhou após 3 tentativas
+2026-06-02 13:33:26,277 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 04 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-06
+2026-06-02 13:33:26,277 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 04 - falhou após 3 tentativas
+2026-06-02 13:33:27,293 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 05 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-07
+2026-06-02 13:33:27,293 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 05 - falhou após 3 tentativas
+2026-06-02 13:33:27,296 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 09 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-11
+2026-06-02 13:33:28,431 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 10 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-12
+2026-06-02 13:33:28,886 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 06 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-08
+2026-06-02 13:33:28,887 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 06 - falhou após 3 tentativas
+2026-06-02 13:33:30,608 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 07 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-09
+2026-06-02 13:33:30,609 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 07 - falhou após 3 tentativas
+2026-06-02 13:33:32,312 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 11 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-13
+2026-06-02 13:33:33,920 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 08 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-10
+2026-06-02 13:33:33,920 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 08 - falhou após 3 tentativas
+2026-06-02 13:33:36,148 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 12 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-14
+2026-06-02 13:33:38,027 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 13 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-15
+2026-06-02 13:33:42,137 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 14 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-16
+2026-06-02 13:33:42,816 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 09 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-11
+2026-06-02 13:33:43,349 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 10 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-12
+2026-06-02 13:33:47,308 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 11 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-13
+2026-06-02 13:33:52,463 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 12 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-14
+2026-06-02 13:33:54,305 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 13 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-15
+2026-06-02 13:33:58,378 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 10 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-12
+2026-06-02 13:33:58,378 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 10 - falhou após 3 tentativas
+2026-06-02 13:33:58,405 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 09 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-11
+2026-06-02 13:33:58,405 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 09 - falhou após 3 tentativas
+2026-06-02 13:33:58,721 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 14 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-16
+2026-06-02 13:34:01,013 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 01 (2026-06-03 → 2026-06-03) 47067 bytes
+2026-06-02 13:34:01,276 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 00 (2026-06-02 → 2026-06-02) 48593 bytes
+2026-06-02 13:34:01,684 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 11 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-13
+2026-06-02 13:34:01,684 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 11 - falhou após 3 tentativas
+2026-06-02 13:34:04,077 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 03 (2026-06-05 → 2026-06-05) 51425 bytes
+2026-06-02 13:34:04,255 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 02 (2026-06-04 → 2026-06-04) 49649 bytes
+2026-06-02 13:34:04,959 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 04 (2026-06-06 → 2026-06-06) 55807 bytes
+2026-06-02 13:34:06,350 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 12 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-14
+2026-06-02 13:34:06,350 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 12 - falhou após 3 tentativas
+2026-06-02 13:34:07,502 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 06 (2026-06-08 → 2026-06-08) 58960 bytes
+2026-06-02 13:34:07,757 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 05 (2026-06-07 → 2026-06-07) 58267 bytes
+2026-06-02 13:34:08,051 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 07 (2026-06-09 → 2026-06-09) 60918 bytes
+2026-06-02 13:34:08,060 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 13 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-15
+2026-06-02 13:34:08,060 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 13 - falhou após 3 tentativas
+2026-06-02 13:34:09,440 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 08 (2026-06-10 → 2026-06-10) 61325 bytes
+2026-06-02 13:34:10,279 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 10 (2026-06-12 → 2026-06-12) 59029 bytes
+2026-06-02 13:34:11,296 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 09 (2026-06-11 → 2026-06-11) 60817 bytes
+2026-06-02 13:34:11,399 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 12 (2026-06-14 → 2026-06-14) 58935 bytes
+2026-06-02 13:34:11,513 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 11 (2026-06-13 → 2026-06-13) 59074 bytes
+2026-06-02 13:34:12,645 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 13 (2026-06-15 → 2026-06-15) 58583 bytes
+2026-06-02 13:34:13,019 [WARNING] [RETRY] USA/GFS_ENSEMBLE_Wheat/cumulative dia 14 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=2&crop=17&label=1&start=2026-06-02&end=2026-06-16
+2026-06-02 13:34:13,020 [ERROR] [ERRO] USA/GFS_ENSEMBLE_Wheat/cumulative dia 14 - falhou após 3 tentativas
+2026-06-02 13:34:14,023 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/daily dia 14 (2026-06-16 → 2026-06-16) 57978 bytes
+2026-06-02 13:34:14,495 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 00 (2026-06-02 → 2026-06-02) 48593 bytes
+2026-06-02 13:34:14,725 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 01 (2026-06-02 → 2026-06-03) 49139 bytes
+2026-06-02 13:34:15,805 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 02 (2026-06-02 → 2026-06-04) 51264 bytes
+2026-06-02 13:34:17,082 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 03 (2026-06-02 → 2026-06-05) 52822 bytes
+2026-06-02 13:34:18,167 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 04 (2026-06-02 → 2026-06-06) 55752 bytes
+2026-06-02 13:34:19,001 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 05 (2026-06-02 → 2026-06-07) 56817 bytes
+2026-06-02 13:34:19,891 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 06 (2026-06-02 → 2026-06-08) 57692 bytes
+2026-06-02 13:34:20,137 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 07 (2026-06-02 → 2026-06-09) 57839 bytes
+2026-06-02 13:34:22,314 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 08 (2026-06-02 → 2026-06-10) 58287 bytes
+2026-06-02 13:34:23,924 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 09 (2026-06-02 → 2026-06-11) 59071 bytes
+2026-06-02 13:34:25,801 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 10 (2026-06-02 → 2026-06-12) 58963 bytes
+2026-06-02 13:34:26,747 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 00 (2026-06-02 → 2026-06-02) 48143 bytes
+2026-06-02 13:34:27,186 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 11 (2026-06-02 → 2026-06-13) 59204 bytes
+2026-06-02 13:34:27,439 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 13 (2026-06-02 → 2026-06-15) 59115 bytes
+2026-06-02 13:34:27,742 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 12 (2026-06-02 → 2026-06-14) 59472 bytes
+2026-06-02 13:34:29,179 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 01 (2026-06-03 → 2026-06-03) 46663 bytes
+2026-06-02 13:34:29,826 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 02 (2026-06-04 → 2026-06-04) 49098 bytes
+2026-06-02 13:34:30,013 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 03 (2026-06-05 → 2026-06-05) 50986 bytes
+2026-06-02 13:34:30,192 [INFO] [OK] USA/ECM_ENSEMBLE_Corn/cumulative dia 14 (2026-06-02 → 2026-06-16) 59492 bytes
+2026-06-02 13:34:30,280 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 04 (2026-06-06 → 2026-06-06) 55352 bytes
+2026-06-02 13:34:30,360 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 05 (2026-06-07 → 2026-06-07) 58056 bytes
+2026-06-02 13:34:30,709 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 06 (2026-06-08 → 2026-06-08) 58512 bytes
+2026-06-02 13:34:31,858 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 07 (2026-06-09 → 2026-06-09) 60688 bytes
+2026-06-02 13:34:32,064 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 08 (2026-06-10 → 2026-06-10) 60957 bytes
+2026-06-02 13:34:32,090 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 10 (2026-06-12 → 2026-06-12) 58776 bytes
+2026-06-02 13:34:32,266 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 09 (2026-06-11 → 2026-06-11) 60534 bytes
+2026-06-02 13:34:32,335 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 11 (2026-06-13 → 2026-06-13) 58708 bytes
+2026-06-02 13:34:32,372 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 12 (2026-06-14 → 2026-06-14) 58727 bytes
+2026-06-02 13:34:33,672 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 13 (2026-06-15 → 2026-06-15) 58246 bytes
+2026-06-02 13:34:33,688 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/daily dia 14 (2026-06-16 → 2026-06-16) 57732 bytes
+2026-06-02 13:34:33,814 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 00 (2026-06-02 → 2026-06-02) 48143 bytes
+2026-06-02 13:34:34,078 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 01 (2026-06-02 → 2026-06-03) 48770 bytes
+2026-06-02 13:34:34,258 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 03 (2026-06-02 → 2026-06-05) 52613 bytes
+2026-06-02 13:34:34,316 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 02 (2026-06-02 → 2026-06-04) 50816 bytes
+2026-06-02 13:34:35,531 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 04 (2026-06-02 → 2026-06-06) 55516 bytes
+2026-06-02 13:34:35,689 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 05 (2026-06-02 → 2026-06-07) 56693 bytes
+2026-06-02 13:34:35,819 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 06 (2026-06-02 → 2026-06-08) 57397 bytes
+2026-06-02 13:34:36,185 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 07 (2026-06-02 → 2026-06-09) 57764 bytes
+2026-06-02 13:34:36,420 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 08 (2026-06-02 → 2026-06-10) 58113 bytes
+2026-06-02 13:34:36,668 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 09 (2026-06-02 → 2026-06-11) 58716 bytes
+2026-06-02 13:34:37,734 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 00 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:34:37,978 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 10 (2026-06-02 → 2026-06-12) 58771 bytes
+2026-06-02 13:34:38,205 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 11 (2026-06-02 → 2026-06-13) 58966 bytes
+2026-06-02 13:34:38,670 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 12 (2026-06-02 → 2026-06-14) 59148 bytes
+2026-06-02 13:34:39,042 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 01 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-03&end=2026-06-03
+2026-06-02 13:34:39,088 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 13 (2026-06-02 → 2026-06-15) 58773 bytes
+2026-06-02 13:34:39,114 [INFO] [OK] USA/ECM_ENSEMBLE_Soy/cumulative dia 14 (2026-06-02 → 2026-06-16) 59042 bytes
+2026-06-02 13:34:39,236 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 02 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-04&end=2026-06-04
+2026-06-02 13:34:39,698 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 03 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-05&end=2026-06-05
+2026-06-02 13:34:40,145 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 04 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-06&end=2026-06-06
+2026-06-02 13:34:40,156 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 05 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-07&end=2026-06-07
+2026-06-02 13:34:46,785 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 00 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:34:48,085 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 01 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-03&end=2026-06-03
+2026-06-02 13:34:48,274 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 02 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-04&end=2026-06-04
+2026-06-02 13:34:48,742 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 03 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-05&end=2026-06-05
+2026-06-02 13:34:49,190 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 04 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-06&end=2026-06-06
+2026-06-02 13:34:49,282 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 05 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-07&end=2026-06-07
+2026-06-02 13:34:55,810 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 00 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:34:55,812 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 00 - falhou após 3 tentativas
+2026-06-02 13:34:56,863 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 06 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-08&end=2026-06-08
+2026-06-02 13:34:57,125 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 01 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-03&end=2026-06-03
+2026-06-02 13:34:57,126 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 01 - falhou após 3 tentativas
+2026-06-02 13:34:57,327 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 02 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-04&end=2026-06-04
+2026-06-02 13:34:57,327 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 02 - falhou após 3 tentativas
+2026-06-02 13:34:57,763 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 03 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-05&end=2026-06-05
+2026-06-02 13:34:57,763 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 03 - falhou após 3 tentativas
+2026-06-02 13:34:58,322 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 04 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-06&end=2026-06-06
+2026-06-02 13:34:58,323 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 04 - falhou após 3 tentativas
+2026-06-02 13:34:58,364 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 07 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-09&end=2026-06-09
+2026-06-02 13:34:58,386 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 08 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-10&end=2026-06-10
+2026-06-02 13:34:58,474 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 05 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-07&end=2026-06-07
+2026-06-02 13:34:58,474 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 05 - falhou após 3 tentativas
+2026-06-02 13:34:58,802 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 09 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-11&end=2026-06-11
+2026-06-02 13:34:59,378 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 10 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-12&end=2026-06-12
+2026-06-02 13:34:59,538 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 11 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-13&end=2026-06-13
+2026-06-02 13:35:05,909 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 06 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-08&end=2026-06-08
+2026-06-02 13:35:07,442 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 07 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-09&end=2026-06-09
+2026-06-02 13:35:07,480 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 08 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-10&end=2026-06-10
+2026-06-02 13:35:07,892 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 09 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-11&end=2026-06-11
+2026-06-02 13:35:08,421 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 10 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-12&end=2026-06-12
+2026-06-02 13:35:08,588 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 11 - tentativa 2/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-13&end=2026-06-13
+2026-06-02 13:35:14,984 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 06 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-08&end=2026-06-08
+2026-06-02 13:35:14,984 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 06 - falhou após 3 tentativas
+2026-06-02 13:35:16,022 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 12 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-14&end=2026-06-14
+2026-06-02 13:35:16,584 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 07 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-09&end=2026-06-09
+2026-06-02 13:35:16,585 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 08 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-10&end=2026-06-10
+2026-06-02 13:35:16,585 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 07 - falhou após 3 tentativas
+2026-06-02 13:35:16,585 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 08 - falhou após 3 tentativas
+2026-06-02 13:35:16,925 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 09 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-11&end=2026-06-11
+2026-06-02 13:35:16,925 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 09 - falhou após 3 tentativas
+2026-06-02 13:35:17,469 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 10 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-12&end=2026-06-12
+2026-06-02 13:35:17,469 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 10 - falhou após 3 tentativas
+2026-06-02 13:35:17,640 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 14 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-16&end=2026-06-16
+2026-06-02 13:35:17,650 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 13 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-15&end=2026-06-15
+2026-06-02 13:35:17,707 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/daily dia 11 - tentativa 3/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-13&end=2026-06-13
+2026-06-02 13:35:17,708 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat/daily dia 11 - falhou após 3 tentativas
+2026-06-02 13:35:17,970 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 00 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-02
+2026-06-02 13:35:18,579 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 01 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-03
+2026-06-02 13:35:18,874 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat/cumulative dia 02 - tentativa 1/3: 500 Server Error: Internal Server Error for url: https://api.weatherdesk.xweather.com/28ffaaf6-c3a2-4009-bd9a-050272f32b8a/services/gwi/v1/getimage?type=station&grouping=D&metric=0&region=35&parameter=PRCP_DEP&model=4&crop=17&label=1&start=2026-06-02&end=2026-06-04
