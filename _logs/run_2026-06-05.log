@@ -950,3 +950,19 @@
 2026-06-05 09:37:56,665 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 01 (2026-06-05 → 2026-06-06) 39951 bytes
 2026-06-05 09:37:56,825 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 02 (2026-06-05 → 2026-06-07) 42820 bytes
 2026-06-05 09:37:57,485 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 03 (2026-06-05 → 2026-06-08) 44097 bytes
+2026-06-05 09:37:58,089 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 04 (2026-06-05 → 2026-06-09) 44795 bytes
+2026-06-05 09:37:58,483 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 05 (2026-06-05 → 2026-06-10) 45691 bytes
+2026-06-05 09:37:58,629 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 06 (2026-06-05 → 2026-06-11) 46711 bytes
+2026-06-05 09:37:58,785 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 07 (2026-06-05 → 2026-06-12) 47106 bytes
+2026-06-05 09:37:59,033 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 08 (2026-06-05 → 2026-06-13) 47325 bytes
+2026-06-05 09:37:59,774 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 09 (2026-06-05 → 2026-06-14) 47817 bytes
+2026-06-05 09:38:00,711 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 10 (2026-06-05 → 2026-06-15) 48110 bytes
+2026-06-05 09:38:01,092 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 11 (2026-06-05 → 2026-06-16) 48188 bytes
+2026-06-05 09:38:01,286 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 12 (2026-06-05 → 2026-06-17) 48125 bytes
+2026-06-05 09:38:01,532 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 13 (2026-06-05 → 2026-06-18) 48094 bytes
+2026-06-05 09:38:01,808 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 14 (2026-06-05 → 2026-06-19) 48377 bytes
+2026-06-05 09:38:01,831 [INFO] Resumo: 960/960 sucessos, 0 erros
+2026-06-05 09:38:01,865 [INFO] Manifest: C:\Users\server\OneDrive - CGB Enterprises, Inc\ZGC-PBI Research - Documents\Dataset Data Files\Weather_maps\manifest.json
+2026-06-05 09:38:01,866 [INFO] [GIT] Iniciando sincronização com GitHub...
+2026-06-05 09:44:38,428 [INFO] [GIT] Sucesso ✓
+2026-06-05 09:44:38,451 [INFO] ✓ Sincronizado com GitHub — Power BI atualiza no próximo refresh
