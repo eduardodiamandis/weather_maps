@@ -964,3 +964,5 @@
 2026-08-21 09:39:00,327 [INFO] [CLEANUP] Removidas 620 pastas de histórico anteriores a 2026-07-22
 2026-08-21 09:39:00,489 [INFO] Manifest: C:\Users\server\OneDrive - CGB Enterprises, Inc\ZGC-PBI Research - Documents\Dataset Data Files\Weather_maps\manifest.json
 2026-08-21 09:39:00,494 [INFO] [GIT] Iniciando sincronização com GitHub...
+2026-08-21 09:40:21,426 [INFO] [GIT] Sucesso ✓
+2026-08-21 09:40:21,435 [INFO] ✓ Sincronizado com GitHub — Power BI atualiza no próximo refresh
