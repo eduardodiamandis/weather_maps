@@ -974,3 +974,11 @@
 2026-09-02 09:43:44,909 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 00 - tentativa 2/3: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 2026-09-02 09:43:57,418 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 00 (2026-09-02 → 2026-09-02) 36298 bytes
 2026-09-02 09:44:00,452 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 12 (2026-09-02 → 2026-09-14) 48197 bytes
+2026-09-02 09:44:38,931 [WARNING] [RETRY] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/daily dia 10 - tentativa 3/3: HTTPSConnectionPool(host='api.weatherdesk.xweather.com', port=443): Read timed out. (read timeout=60)
+2026-09-02 09:44:38,933 [ERROR] [ERRO] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/daily dia 10 - falhou após 3 tentativas
+2026-09-02 09:44:39,003 [INFO] Resumo: 958/960 sucessos, 2 erros
+2026-09-02 09:44:44,066 [INFO] [CLEANUP] Removidas 732 pastas de histórico anteriores a 2026-08-03
+2026-09-02 09:44:44,122 [INFO] Manifest: C:\Users\server\OneDrive - CGB Enterprises, Inc\ZGC-PBI Research - Documents\Dataset Data Files\Weather_maps\manifest.json
+2026-09-02 09:44:44,123 [INFO] [GIT] Iniciando sincronização com GitHub...
+2026-09-02 09:46:54,675 [INFO] [GIT] Sucesso ✓
+2026-09-02 09:46:54,681 [INFO] ✓ Sincronizado com GitHub — Power BI atualiza no próximo refresh
