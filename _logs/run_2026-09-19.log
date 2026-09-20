@@ -961,3 +961,8 @@
 2026-09-19 09:38:02,810 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 13 (2026-09-19 → 2026-10-02) 48780 bytes
 2026-09-19 09:38:03,656 [INFO] [OK] USA/ECM_ENSEMBLE_Wheat_Spring_PRCP/cumulative dia 14 (2026-09-19 → 2026-10-03) 48641 bytes
 2026-09-19 09:38:03,660 [INFO] Resumo: 960/960 sucessos, 0 erros
+2026-09-19 09:38:17,960 [INFO] [CLEANUP] Removidas 1004 pastas de histórico anteriores a 2026-08-20
+2026-09-19 09:38:17,987 [INFO] Manifest: C:\Users\server\OneDrive - CGB Enterprises, Inc\ZGC-PBI Research - Documents\Dataset Data Files\Weather_maps\manifest.json
+2026-09-19 09:38:17,987 [INFO] [GIT] Iniciando sincronização com GitHub...
+2026-09-19 09:40:12,210 [INFO] [GIT] Sucesso ✓
+2026-09-19 09:40:12,210 [INFO] ✓ Sincronizado com GitHub — Power BI atualiza no próximo refresh
